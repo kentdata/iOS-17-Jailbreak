@@ -29,11 +29,6 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 - Senumy On twitter has updated a news as “new POC is now compatible with iOS 17.1 jailbreak” 
 
-<p align="center">
-   <img src="[https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png]" alt="[POC]"/>
-</p>
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)
 
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png]]
 
-<img src=”https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png" align=”center” >
