@@ -33,7 +33,7 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 - Palera1n v2.0.0 beta 8 has been released ! According to that update Plarea1n team announced that v2.0.0 beta 8  is compatible with iOS 17 - iOS 17.1 (and potentially higher)
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palerain.jpg))
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palerain.jpg)
 
 - Another new update from Senumy on twitter about POC as “POC and brief explanation for CVE-2023-41993 WebKit JSC bug”
 
