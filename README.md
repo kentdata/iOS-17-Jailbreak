@@ -18,6 +18,13 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max
 - iPhone 15, iPhone 15 plus, iPhone 15 pro, iPhone 15 pro max
 
+## Available iOS Versions:
+- iOS 17
+- iOS 17.0.1
+- iOS 17.0.2
+- iOS 17.0.3
+- iOS 17.1
+
 ## iOS 17/ iOS 17.1 jailbreak related news:
 
 Happy news for jailbreak communities those who are eagerly awaiting the most secure jailbreak method for iOS 17.
