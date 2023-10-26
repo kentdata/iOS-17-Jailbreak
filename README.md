@@ -24,7 +24,7 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 - On 21st of September opa334 updated his twitter with a curious update as “Has Apple just patched "TrollStore 2: Electric Boogaloo"?
 
-<center>![Jailbreak iOS 17 and iOS 17.1 Sileem, Zeon, Uncover Black, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)</center>
+![Jailbreak iOS 17 and iOS 17.1 Sileem, Zeon, Uncover Black, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)
 
 
 
