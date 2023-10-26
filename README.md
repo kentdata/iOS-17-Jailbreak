@@ -38,6 +38,6 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 - Another new update from Senumy on twitter about POC as “POC and brief explanation for CVE-2023-41993 WebKit JSC bug”
 
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/poccve.jpg)
 
 
