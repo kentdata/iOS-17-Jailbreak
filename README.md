@@ -26,5 +26,7 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 ![Jailbreak iOS 17 and iOS 17.1 Sileem, Zeon, Uncover Black, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)
 
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)
+
 
 
