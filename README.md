@@ -44,20 +44,26 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 ## FAQ
 
 01. What is jailbreaking?
+
 In simple words, jailbreaking means removing software bans on iOS devices and allowing customers to get more modifications on their devices.
 
 02. Is jailbreaking legal?
+
 Yes, jailbreaking is legal in many countries including the United States.
 
 03. Why do people jailbreak their iOS devices?
+
 People jailbreak their devices for various purposes including customizing the user interface, installing unapproved apps, accessing system files and Apple imposed restrictions such as carrier restrictions.
 
 04. Can I still access the Apple App store after jailbreaking?
+
 Yes you can access the App store after jailbreaking, but some apps may not work properly on jailbroken devices.
 
 05. Is it possible to restore a jailbroken device to its original status?
+
 Yes. You can reverse your device to the original status with factory reset or restoring it though iTunes. But the restoring process will lose your previous data.
 
 06. Is it worth jailbreaking my device?
+
 The value of jailbreaking depends on your needs and what you are willing to access. It provides more freedom of customizations but it also has some drawbacks and risks. 
 
