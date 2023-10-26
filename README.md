@@ -33,4 +33,7 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
    <img src="[https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png]" alt="[POC]"/>
 </p>
 
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png]]
+
 <img src=”https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png" align=”center” >
