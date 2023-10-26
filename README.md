@@ -22,9 +22,8 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 
 Happy news for jailbreak communities those who are eagerly awaiting the most secure jailbreak method for iOS 17.
 
-- On 21st of September opa334 updated his twitter with a curious update as “Has Apple just patched "TrollStore 2: Electric Boogaloo"?
 
-![Jailbreak iOS 17 and iOS 17.1 Sileem, Zeon, Uncover Black, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)
+- Seekers those who are finding to jailbreak iOS 17, now Correlium  has upgraded to iOS 17 jailbreak.
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)
 
