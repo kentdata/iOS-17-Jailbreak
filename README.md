@@ -20,6 +20,10 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 
 ## iOS 17/ iOS 17.1 jailbreak related news:
 
+Happy news for jailbreak communities those who are eagerly awaiting the most secure jailbreak method for iOS 17.
+
+- On 21st of September opa334 updated his twitter with a curious update as “Has Apple just patched "TrollStore 2: Electric Boogaloo"?
+
 
 
 
