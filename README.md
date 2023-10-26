@@ -39,6 +39,10 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/poccve.jpg)
 
-- Seekers those who are finding to jailbreak iOS 17, now Correlium  has upgraded to iOS 17 jailbreak. 
+- Seekers those who are finding to jailbreak iOS 17, now Correlium  has upgraded to iOS 17 jailbreak.
 
+## FAQ
+
+01. What is jailbreaking?
+- In simple words, jailbreaking means removing software bans on iOS devices and allowing customers to get more modifications on their devices.
 
