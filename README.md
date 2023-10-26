@@ -32,3 +32,5 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 <p align="center">
    <img src="[https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png]" alt="[POC]"/>
 </p>
+
+<img src=”https://github.com/jbspot/iOS-17-Jailbreak/blob/main/POC-img.png" align=”center” >
