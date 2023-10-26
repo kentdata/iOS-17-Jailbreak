@@ -8,7 +8,7 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 
 ![Jailbreak iOS 17 and iOS 17.1 Sileem, Zeon, Uncover Black, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/iOS-17-Jailbreak.png)
 
-## iOS 17 support devices:
+## iOS 17 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
