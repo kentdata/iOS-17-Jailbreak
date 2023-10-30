@@ -1,7 +1,7 @@
 
 
 
-# iOS 17 - 17.1 Jailbreak Solutions & Hot News [100% Trusted tools]
+# iOS 17 - 17.1 Jailbreak Solutions [100% Trusted tools]
 
 Most awaited iOS 17 was released  to the public on 18 September 2023 except iPhone 15 devices. For iPhone 15 devices iOS 17 released on 22 nd of september 2023.
 
