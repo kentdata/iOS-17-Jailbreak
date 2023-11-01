@@ -74,3 +74,8 @@ Yes. You can reverse your device to the original status with factory reset or re
 
 The value of jailbreaking depends on your needs and what you are willing to access. It provides more freedom of customizations but it also has some drawbacks and risks. 
 
+| Version   | Build   | Release date | More details                                      |
+|-----------|---------|--------------|----------------------------------------------------|
+| 17.0      | 21A326  | -            |  |
+
+
