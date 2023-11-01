@@ -35,7 +35,7 @@ Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method com
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/4bdf2912-7684-4989-9acf-4c9da0abd9fe)
 
-
+<i class="fa fa-download" aria-hidden="true"></i>
 
 
 
