@@ -33,7 +33,8 @@ We have listed the most popular jailbreak methods among jailbreak communities. B
 
 Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method compatible with A8- A 16 devices including latest released iPhone 15 device models.
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/a96b7f03-112a-45cb-922e-7839d566bc7c)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/5fcdb53f-ac33-4dce-9834-7c554dbd2ad7)
+
 
 
 ## iOS 17/ iOS 17.1 jailbreak related news:
