@@ -8,7 +8,7 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 
 ![ios 17 image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/iOS-17-Jailbreak.png)
 
-## iOS 17 supported devices:
+### iOS 17 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
@@ -18,12 +18,18 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max
 - iPhone 15, iPhone 15 plus, iPhone 15 pro, iPhone 15 pro max
 
-## Available iOS Versions:
+### Available iOS Versions:
 - iOS 17
 - iOS 17.0.1
 - iOS 17.0.2
 - iOS 17.0.3
 - iOS 17.1
+
+##iOS 17  - iOS 17.1 jailbreak Solutions
+
+We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1 jailbreak methods are filled with brand new features.
+
+###01. Palera1n Virtual Jailbreak
 
 ## iOS 17/ iOS 17.1 jailbreak related news:
 
