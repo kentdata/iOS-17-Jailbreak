@@ -35,7 +35,18 @@ Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method com
 
 ▶ [Download Palera1n Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)
 
+More details about Palear1n Virtual jailbreak - Click <a href="https://github.com/jbspot/Palera1n-Jailbreak">here</a>
+
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/4bdf2912-7684-4989-9acf-4c9da0abd9fe)
+
+### 02. Sileem Repo Extractor
+
+Sileem repo extractor is a jailbreak method that revolutionized iOS 16. After iOS 17 released , Sileem repo extractor has upgraded the compatibility with iOS 17 and higher versions also
+
+▶ [Download Sileem](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/)
+
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/a97f35de-10e9-40a8-b9ce-de29e526d905)
+
 
 
 
