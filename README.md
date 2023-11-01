@@ -25,6 +25,8 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 - iOS 17.0.3
 - iOS 17.1
 
+<hr>
+
 ## iOS 17  - iOS 17.1 jailbreak Solutions
 
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1 jailbreak methods are filled with brand new features.
@@ -43,14 +45,19 @@ More details about Palear1n Virtual jailbreak - Click <a href="https://github.co
 
 Sileem repo extractor is a jailbreak method that revolutionized iOS 16. After iOS 17 released , Sileem repo extractor has upgraded the compatibility with iOS 17 and higher versions also
 
-▶ [Download Sileem](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/)
+▶ [Download Sileem](https://en.sileem.com/install/en/process/sileem-app-installer/17/sileem/)
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/a97f35de-10e9-40a8-b9ce-de29e526d905)
 
+### 03. Unc0ver Black edition
 
+Unc0ver Black edition is an alternative of Uncover semi-tethered jailbreak tool which is compatible with iOS 17 and higher version jailbreak. Unc0ver Black edition supports installing Cydia black as the default package manager after the jailbreak process is completed. 
 
+▶ [Download Unc0ver Black Edition](https://download.pangu8.com/install/pangu8App*/17/uncover-black/)
 
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d99b85f3-ecfb-49b7-919b-b9e19178a6be)
 
+<hr>
 
 ## iOS 17/ iOS 17.1 jailbreak related news:
 
