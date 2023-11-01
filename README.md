@@ -29,7 +29,7 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1 jailbreak methods are filled with brand new features.
 
-### <u>01. Palera1n Virtual Jailbreak</u>
+### 01. Palera1n Virtual Jailbreak
 
 Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method compatible with A8- A 16 devices including latest released iPhone 15 device models.
 
