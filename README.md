@@ -7,11 +7,6 @@ Most awaited iOS 17 was released  to the public on 18 September 2023 except iPho
 
 
 ![ios 17 image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/iOS-17-Jailbreak.png)
-<p align="center">
-    [solutions](#solutions) •
-	[solutions](#solutions) •
-	[solutions](#solutions)
-</p>
 
 ### iOS 17 supported devices:
 - iPhone XS and iPhone XS Max
