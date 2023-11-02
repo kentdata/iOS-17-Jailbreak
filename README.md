@@ -5,7 +5,7 @@
 
 Most awaited iOS 17 was released  to the public on 18 September 2023 except iPhone 15 devices. For iPhone 15 devices iOS 17 released on 22 nd of september 2023.
 
-Read more about,
+Read more about,<br>
 
 ▶ [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/)
 
