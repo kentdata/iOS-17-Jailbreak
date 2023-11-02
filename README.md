@@ -59,7 +59,7 @@ Unc0ver Black edition is an alternative of Uncover semi-tethered jailbreak tool 
 
 <hr>
 
-### 03. Fugu17 Jailbreak
+### 04. Fugu17 Jailbreak
 
 Fugu 17 is brand new jailbreak solution for Jailbreak iOS 17 app installation. No errors were reported while running Fugu 17. So it as a jailbreak iOS 17 solution to install the Sileo lite.
 
