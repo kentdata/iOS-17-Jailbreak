@@ -1,7 +1,7 @@
 
 
 
-# iOS 17 - 17.1.1 Jailbreak Solutions [100% Trusted tools]
+# iOS 17 - 17.1.1 Jailbreak Solutions [UPDATED Solutions]
 
 Unlock the Infinite Possibilities: Welcome to the iOS 17 Jailbreak Revolution!
 
