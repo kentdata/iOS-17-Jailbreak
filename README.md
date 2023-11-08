@@ -54,7 +54,7 @@ Misaka is a new tweak manager (Without Jailbreak), based on the MacDirtyCow vuln
 
 [How to install misaka tweeak manager](https://pangu8.com/latest/misaka-tweak-manager/#misaka-guide)
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/cf5cd24a-7def-418f-8ec2-4ad4a29d975d)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/misaka1711.png)
 
 
 ### 03. Sileem Repo Extractor
