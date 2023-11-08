@@ -1,13 +1,13 @@
 
 
 
-# iOS 17 - 17.1 Jailbreak Solutions [100% Trusted tools]
+# iOS 17 - 17.1.1 Jailbreak Solutions [100% Trusted tools]
 
 Unlock the Infinite Possibilities: Welcome to the iOS 17 Jailbreak Revolution!
 
-Most awaited iOS 17 was released  to the public on 18 September 2023 except iPhone 15 devices. We have all trusted iOS 17 Jailbreak solutions listed below. These are compatible with iOS 17/ iOS 17.1 jailbreak. 
+Most awaited iOS 17 was released  to the public on 18 September 2023 except iPhone 15 devices. We have all trusted iOS 17 Jailbreak solutions listed below. These are compatible with iOS 17/ iOS 17.1.1 jailbreak. 
 
-Read more about [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) & [iOS 17.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
+Read more about [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) & [iOS 17.1.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
 
 ![ios 17 image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/iOS-17-Jailbreak.png)
@@ -28,12 +28,13 @@ Read more about [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) & [iOS 
 - iOS 17.0.2
 - iOS 17.0.3
 - iOS 17.1
+- iOS 17.1.1
 
 <hr>
 
-## iOS 17  - iOS 17.1 jailbreak Solutions
+## iOS 17  - iOS 17.1.1 jailbreak Solutions
 
-We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1 jailbreak methods are filled with brand new features.
+We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
 
 ### 01. Palera1n Virtual Jailbreak
 
@@ -74,7 +75,7 @@ Fugu 17 is brand new jailbreak solution for Jailbreak iOS 17 app installation. N
 
 <hr>
 
-## Advantages of Jailbreak iOS 17/ iOS 17.1
+## Advantages of Jailbreak iOS 17/ iOS 17.1.1
 
 Jailbreaking an iPhone refers to the process of removing software restrictions imposed by Apple on iOS devices. While jailbreaking can provide some benefits to users, it also comes with significant risks and drawbacks. Here are some advantages of jailbreaking an iPhone
 
@@ -94,7 +95,7 @@ Jailbreaking an iPhone refers to the process of removing software restrictions i
 
 <hr>
 
-## iOS 17/ iOS 17.1 jailbreak related news:
+## iOS 17/ iOS 17.1.1 jailbreak related news:
 
 Happy news for jailbreak communities those who are eagerly awaiting the most secure jailbreak method for iOS 17.
 
