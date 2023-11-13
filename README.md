@@ -46,7 +46,7 @@ More details about Palear1n Virtual jailbreak - Click <a href="https://github.co
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/4bdf2912-7684-4989-9acf-4c9da0abd9fe)
 
-### 02. Misaka Tweak manager
+### 02. Misaka Tweak manager [v3.0 IPA]
 
 Misaka is a new tweak manager (Without Jailbreak), based on the MacDirtyCow vulnerability supporting iOS 15.0 – 16.1.2, all devices support from (A9 to A16).
 
