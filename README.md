@@ -1,7 +1,7 @@
 
 
 
-# iOS 17 - 17.1.1 Jailbreak Solutions [Misaka UPDATED]
+# iOS 17 - 17.1.1 Jailbreak Solutions [Verified Solutions]
 
 Unlock the Infinite Possibilities: Welcome to the iOS 17 Jailbreak Revolution!
 
