@@ -5,7 +5,7 @@
 
 Unlock the Infinite Possibilities: Welcome to the iOS 17 Jailbreak Revolution!
 
-Most awaited iOS 17 was released  to the public on 18 September 2023 except iPhone 15 devices. We have all trusted iOS 17 Jailbreak solutions listed below. These are compatible with iOS 17/ iOS 17.1.1 jailbreak. 
+ust upgrade your iPhone to iOS 17/ iOS 17.1.1, then try the following iOS 17/ iOS 17.1.1 jailbreak download methods to install awesome jailbreak apps, tweaks, themes. All iOS 17.0.1, iOS 7.0.2, iOS 17.0.3, iOS 17.1 & iOS 17.1.1 versions are also compatible with below jailbreak methods.
 
 Read more about [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) & [iOS 17.1.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
