@@ -9,8 +9,8 @@ ust upgrade your iPhone to iOS 17/ iOS 17.1.1, then try the following iOS 17/ iO
 
 Read more about [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) & [iOS 17.1.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/58276f86-7f7e-4295-a6ab-852065cbe385)
 
-![ios 17 image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/iOS-17-Jailbreak.png)
 
 ### iOS 17/ iOS 17.1.1 supported devices:
 - iPhone XS and iPhone XS Max
