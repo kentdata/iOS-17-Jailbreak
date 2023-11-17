@@ -12,7 +12,7 @@ Read more about [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) & [iOS 
 
 ![ios 17 image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/iOS-17-Jailbreak.png)
 
-### iOS 17 supported devices:
+### iOS 17/ iOS 17.1.1 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
