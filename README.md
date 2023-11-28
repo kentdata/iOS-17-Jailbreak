@@ -1,6 +1,3 @@
-
-
-
 # iOS 17 - 17.1.1 Jailbreak [ install top rated & Verified Solutions ]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17banner.jpg)
 We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
@@ -100,7 +97,8 @@ Apart from that you can install IPAs on your iOS 17 phone using the latest Troll
 
 In the public TrollStore 2, developers have uncovered a new CoreTrust vulnerability in iOS. Updates will include support for iOS 15.5 up to iOS 16.6.1 and iOS 17.0.
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/trollstore.jpg)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d01e4429-816d-4fe2-8afe-ea4524e468c2)
+
 
 <hr>
 
