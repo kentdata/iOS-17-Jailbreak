@@ -40,8 +40,12 @@ Read more about
 
 | Version  | Solution | install link |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| iOS 17  | Content Cell  | Content Cell  |
+| iOS 17.0.1  | Content Cell  | Content Cell  |
+| iOS 17.0.2  | Content Cell  | Content Cell  |
+| iOS 17.0.3  | Content Cell  | Content Cell  |
+| iOS 17.1  | Content Cell  | Content Cell  |
+| iOS 17.1.1  | Content Cell  | Content Cell  |
 
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
 
