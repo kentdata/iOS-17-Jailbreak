@@ -38,6 +38,17 @@ Read more about
 
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
 
+| Version   | Solution   | Download link                                      |
+|-----------|---------|--------------|----------------------------------------------------|
+| iOS 17      | 21A326  | -            | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) |
+| iOS 17.0.1   | -       | September 22, 2023 | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - Initial release for iPhone 15 and 15 Pro models   |
+| iOS 17.0.2    | -       | September 18, 2023 | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - All models except iPhone 15 and 15 Pro          |
+| iOS 17.0.3    | -       | -            | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - iPhone 15 and 15 Pro models only                   |
+| iOS 17.1    | 21A340  | September 21, 2023 | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - Security content                                 |
+| iOS 17.1.1    | 21A350  | -            | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - iPhone 15 and 15 Pro models only                   |
+
+
+
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
 
 ### 01. Palera1n Virtual Jailbreak
