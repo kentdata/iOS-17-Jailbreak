@@ -64,24 +64,13 @@ Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method com
 More details about Palear1n Virtual jailbreak - Click <a href="https://github.com/jbspot/Palera1n-Jailbreak">here</a>
 
 
-### 02. Misaka Tweak manager [v3.0 IPA]
-
-Misaka is a new tweak manager (Without Jailbreak), based on the MacDirtyCow vulnerability supporting iOS 15.0 – 16.1.2, all devices support from (A9 to A16).
-
-▶ [Download Misaka Tweak Manager](https://discord.com/channels/1074625970029477919/1091743906342895727)
-
-[How to install misaka tweeak manager](https://pangu8.com/latest/misaka-tweak-manager/#misaka-guide)
-
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/misaka1711.png)
-
-
-### 03. Sileem Repo Extractor
+### 02. Sileem Repo Extractor
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/a97f35de-10e9-40a8-b9ce-de29e526d905)
 
 Sileem repo extractor is a jailbreak method that revolutionized iOS 16. After iOS 17 released , Sileem repo extractor has upgraded the compatibility with iOS 17 and higher versions also
 
 ▶ [Download Sileem](https://en.sileem.com/install/en/process/sileem-app-installer/17/sileem/)
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/a97f35de-10e9-40a8-b9ce-de29e526d905)
 
 ### 04. Unc0ver Black edition
 
