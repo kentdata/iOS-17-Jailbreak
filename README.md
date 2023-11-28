@@ -1,7 +1,7 @@
 
 
 
-# iOS 17 - 17.1.1 Jailbreak [Install top rated & Verified Solutions]
+# iOS 17 - 17.1.1 Jailbreak [ install top rated & Verified Solutions ]
 
 Unlock the Infinite Possibilities: Welcome to the iOS 17 Jailbreak Revolution!
 
