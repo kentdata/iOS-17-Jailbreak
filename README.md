@@ -49,7 +49,9 @@ We have listed the most popular jailbreak methods among jailbreak communities. B
 | iOS 17.1     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Misaka](https://discord.com/channels/1074625970029477919/1091743906342895727) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)    | 
 | iOS 17.1.1     | ✅[KFD Jailbreak app installer](https://download.pangu8.com/install/kfd/17/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     | 
 
+<hr>
 
+We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1 & iOS 17.1.1 
 
 
 ### 01. Palera1n Virtual Jailbreak
