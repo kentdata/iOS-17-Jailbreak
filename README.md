@@ -3,11 +3,14 @@
 
 # iOS 17 - 17.1.1 Jailbreak [ install top rated & Verified Solutions ]
 
-Unlock the Infinite Possibilities: Welcome to the iOS 17 Jailbreak Revolution!
+We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
 
-ust upgrade your iPhone to iOS 17/ iOS 17.1.1, then try the following iOS 17/ iOS 17.1.1 jailbreak download methods to install awesome jailbreak apps, tweaks, themes. All iOS 17.0.1, iOS 7.0.2, iOS 17.0.3, iOS 17.1 & iOS 17.1.1 versions are also compatible with below jailbreak methods.
+Now iOS 17.2 beta is also available to download for the developers.
 
-Read more about [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) & [iOS 17.1.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
+Read more about
+[iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) 
+[iOS 17.1.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
+[iOS 17.2 Jailbreak (BETA)](https://pangu8.com/ios-17-2-jailbreak/)
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/46a4aadb-d651-4df4-9536-ced2118722de)
 
