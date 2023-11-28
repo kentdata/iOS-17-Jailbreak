@@ -62,6 +62,7 @@ Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method com
 
 More details about Palear1n Virtual jailbreak - Click <a href="https://github.com/jbspot/Palera1n-Jailbreak">here</a>
 
+![image](https://drive.google.com/file/d/1_9rxPlh5aFle3C4Qjw1-OznXP_c7SlWY/view?usp=sharing)
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/4bdf2912-7684-4989-9acf-4c9da0abd9fe)
 
 ### 02. Misaka Tweak manager [v3.0 IPA]
