@@ -63,6 +63,7 @@ Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method com
 
 More details about Palear1n Virtual jailbreak - Click <a href="https://github.com/jbspot/Palera1n-Jailbreak">here</a>
 
+<hr>
 
 ### 02. Sileem Repo Extractor
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/sileem.png)
@@ -71,24 +72,25 @@ Sileem repo extractor is a jailbreak method that revolutionized iOS 16. After iO
 
 ▶ [Download Sileem](https://en.sileem.com/install/en/process/sileem-app-installer/17/sileem/)
 
+<hr>
 
-### 04. Unc0ver Black edition
+### 03. Unc0ver Black edition
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d99b85f3-ecfb-49b7-919b-b9e19178a6be)
 
 Unc0ver Black edition is an alternative of Uncover semi-tethered jailbreak tool which is compatible with iOS 17 and higher version jailbreak. Unc0ver Black edition supports installing Cydia black as the default package manager after the jailbreak process is completed. 
 
 ▶ [Download Unc0ver Black Edition](https://download.pangu8.com/install/pangu8App*/17/uncover-black/)
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d99b85f3-ecfb-49b7-919b-b9e19178a6be)
 
 <hr>
 
-### 05. Fugu17 Jailbreak
+### 04. Fugu17 Jailbreak
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/4e0b2e1a-642c-42cf-8a68-6a4cdb06c242)
 
 Fugu 17 is brand new jailbreak solution for Jailbreak iOS 17 app installation. No errors were reported while running Fugu 17. So it as a jailbreak iOS 17 solution to install the Sileo lite.
 
 ▶ [Download Fugu17](https://download.pangu8.com/install/pangu8App*/17/fugu17/)
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/4e0b2e1a-642c-42cf-8a68-6a4cdb06c242)
 
 
 <hr>
