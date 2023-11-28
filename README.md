@@ -91,7 +91,11 @@ Fugu 17 is brand new jailbreak solution for Jailbreak iOS 17 app installation. N
 
 ▶ [Download Fugu17](https://download.pangu8.com/install/pangu8App*/17/fugu17/)
 
+<hr>
 
+## 05. Trollstore IPA installer
+
+Apart from that you can install IPAs on your iOS 17 phone using the latest Trollstore app
 
 <hr>
 
