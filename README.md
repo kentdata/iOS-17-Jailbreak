@@ -94,10 +94,13 @@ Fugu 17 is brand new jailbreak solution for Jailbreak iOS 17 app installation. N
 <hr>
 
 ## 05. Trollstore IPA installer
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/trollstore.jpg)
 
 Apart from that you can install IPAs on your iOS 17 phone using the latest Trollstore app. this is a permanent IPA installer that supports iOS 14.0, 15.0-16.6.1, and iOS 17.0.
 
 In the public TrollStore 2, developers have uncovered a new CoreTrust vulnerability in iOS. Updates will include support for iOS 15.5 up to iOS 16.6.1 and iOS 17.0.
+
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/trollstore.jpg)
 
 <hr>
 
