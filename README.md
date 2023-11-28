@@ -75,7 +75,7 @@ Sileem repo extractor is a jailbreak method that revolutionized iOS 16. After iO
 <hr>
 
 ### 03. Unc0ver Black edition
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d99b85f3-ecfb-49b7-919b-b9e19178a6be)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/uncoverBlack.png)
 
 Unc0ver Black edition is an alternative of Uncover semi-tethered jailbreak tool which is compatible with iOS 17 and higher version jailbreak. Unc0ver Black edition supports installing Cydia black as the default package manager after the jailbreak process is completed. 
 
