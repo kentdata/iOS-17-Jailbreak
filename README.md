@@ -38,7 +38,7 @@ Read more about
 
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
 
-| First Header  | Second Header | Second Header |
+| Version  | Solution | install link |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
