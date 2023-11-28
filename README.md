@@ -65,7 +65,7 @@ More details about Palear1n Virtual jailbreak - Click <a href="https://github.co
 
 
 ### 02. Sileem Repo Extractor
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/a97f35de-10e9-40a8-b9ce-de29e526d905)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/sileem.png)
 
 Sileem repo extractor is a jailbreak method that revolutionized iOS 16. After iOS 17 released , Sileem repo extractor has upgraded the compatibility with iOS 17 and higher versions also
 
