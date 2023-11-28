@@ -38,14 +38,14 @@ Read more about
 
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
 
-| Version  | Solution | install link |
-| ------------- | ------------- | ------------- |
-| iOS 17  | sileem, checkrain mirror  | Content Cell  |
-| iOS 17.0.1  | Content Cell  | Content Cell  |
-| iOS 17.0.2  | Content Cell  | Content Cell  |
-| iOS 17.0.3  | Content Cell  | Content Cell  |
-| iOS 17.1  | Content Cell  | Content Cell  |
-| iOS 17.1.1  | Content Cell  | Content Cell  |
+| Version  | Solution |
+| ------------- | ------------- |
+| iOS 17  | sileem, checkrain mirror, Palerain  |
+| iOS 17.0.1  | Content Cell  |
+| iOS 17.0.2  | Content Cell  |
+| iOS 17.0.3  | Content Cell  | 
+| iOS 17.1  | Content Cell  | 
+| iOS 17.1.1  | Content Cell  | 
 
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
 
