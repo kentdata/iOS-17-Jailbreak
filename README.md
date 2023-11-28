@@ -6,7 +6,7 @@
 We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
 
 Now iOS 17.2 beta is also available to download for the developers.
-
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17banner.jpg)
 Read more about
 
 [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) 
@@ -15,7 +15,6 @@ Read more about
 
 [iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/) (BETA)
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17banner.jpg)
 
 ### iOS 17/ iOS 17.1.1 supported devices:
 - iPhone XS and iPhone XS Max
