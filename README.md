@@ -37,12 +37,12 @@ Read more about
 <hr>
 
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
-<center>
+
 | First Header  | Second Header | Second Header |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
-</center>center>
+
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
 
 ### 01. Palera1n Virtual Jailbreak
