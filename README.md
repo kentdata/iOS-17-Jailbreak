@@ -37,8 +37,6 @@ Read more about
 <hr>
 
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
-
-<div style="display: flex; justify-content: center;">
   
 | Version  | Solution |
 | ------------- | ------------- |
@@ -49,7 +47,16 @@ Read more about
 | iOS 17.1  | Sileem, Misaka, Palerain Virual  | 
 | iOS 17.1.1  | KFD, Checkrain Mirror  | 
 
-</div>
+
+.center[ 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+]
 
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
 
