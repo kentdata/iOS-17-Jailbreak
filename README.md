@@ -38,25 +38,15 @@ Read more about
 
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
   
-| Version  | Solution |
-| ------------- | ------------- |
-| iOS 17  | sileem, checkrain mirror, Palerain  |
-| iOS 17.0.1  | sileem, Uncover Black  |
-| iOS 17.0.2  | Fugu17, Zeon, Hacksnow  |
-| iOS 17.0.3  | Dopamine, Tijong Xuni, Cheyote  | 
-| iOS 17.1  | Sileem, Misaka, Palerain Virual  | 
-| iOS 17.1.1  | KFD, Checkrain Mirror  | 
+| Version     | Solution    |
+| -------------    | -------------    |
+| iOS 17     | sileem, checkrain mirror, Palerain     |
+| iOS 17.0.1     | sileem, Uncover Black     |
+| iOS 17.0.2     | Fugu17, Zeon, Hacksnow     |
+| iOS 17.0.3     | Dopamine, Tijong Xuni, Cheyote     | 
+| iOS 17.1     | Sileem, Misaka, Palerain Virual     | 
+| iOS 17.1.1     | KFD, Checkrain Mirror     | 
 
-
-.center[ 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-]
 
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
 
