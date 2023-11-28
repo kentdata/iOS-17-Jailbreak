@@ -37,6 +37,8 @@ Read more about
 <hr>
 
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
+
+We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
   
 | **Version**    | **Solution**    |
 | -------------    | --------------------------    |
@@ -48,7 +50,7 @@ Read more about
 | iOS 17.1.1     | ✅[KFD Jailbreak app installer](https://download.pangu8.com/install/kfd/17/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     | 
 
 
-We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
+
 
 ### 01. Palera1n Virtual Jailbreak
 
