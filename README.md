@@ -39,7 +39,7 @@ Read more about
 ## iOS 17  - iOS 17.1.1 jailbreak Solutions
   
 | Version     | Solution    |
-| -------------    | -------------    |
+| -------------    | --------------------------    |
 | iOS 17     | sileem, checkrain mirror, Palerain     |
 | iOS 17.0.1     | sileem, Uncover Black     |
 | iOS 17.0.2     | Fugu17, Zeon, Hacksnow     |
