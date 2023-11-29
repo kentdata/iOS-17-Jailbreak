@@ -60,6 +60,7 @@ Palera1n Jailbreak is the first ever semi-tethered jailbreak for iOS 15 & higher
 
 ### ➤ Palera1n tool (iOS 15 – iOS 17.1 older device models)
 
+Palera1n jailbreak v2.0.0 beta 8 is now available to download.
 ▶ [Download Palera1n tool](https://github.com/palera1n/palera1n/releases)
 
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
