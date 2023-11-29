@@ -110,7 +110,6 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 2. Launch Pangu8 App Manager from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from jailbreak solutions category.
 
 3. When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/3c435c5f-c535-44a2-8ba1-96dac2921672)
 
 4. Open the terminal and Activate the terminal and wait for the device to be detected.
 
