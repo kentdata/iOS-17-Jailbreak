@@ -93,7 +93,7 @@ If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Dis
 | 18. Click the install button   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
 | 19. Click repairing   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
 | 20. Now Sileo package manager is installed on your device   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| [▶] Video Guide  |
+| [▶] <a href="https://youtu.be/eDGx-8C8jPo?si=ENY02FdGNDDPKLRS">Video Guide</a>  |
 
 
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
