@@ -105,6 +105,26 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 #### How to install Palera1n Virtual
 
+1. Click the above button, first you need to install Pangu8 App Manager.
+
+2. Launch Pangu8 App Manager from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from jailbreak solutions category.
+
+3. When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/3c435c5f-c535-44a2-8ba1-96dac2921672)
+
+4. Open the terminal and Activate the terminal and wait for the device to be detected.
+
+5. Copy the device IPSW key from the IPSW file available on homescreen.
+
+6. Paste it on the terminal > Done.  Once you get the correct key, you will get the “Key Matched!” pop up and the jailbreak process will continue. Wait for the jailbreak procedure to be finished. It will provide a palera1n download button.
+
+7. Go ahead with the installation process. Now you will see the Palerain loader app on your device home screen instead of terminal.
+
+8. Open the Palera1n loader, tap the Install button, it will start the bootstrap process and Sileo registering process. Finally you will see the Sileo Install button.
+
+9. Once complete Sileo installation process, there will be a Sileo on your device homescreen. Enjoy the Tweak installation through Sileo.
+
+
 More details about Palear1n Virtual jailbreak - Click <a href="https://github.com/jbspot/Palera1n-Jailbreak">here</a>
 
 <hr>
