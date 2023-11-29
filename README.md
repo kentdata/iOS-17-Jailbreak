@@ -79,7 +79,20 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 | 5. Enter this command - sudo xattr -cr /usr/local/bin/palera1n     | 5. Check if your device is in DFU Mode, otherwise set it to DFU Mode.     |
 | 6. Enter this command again - sudo chmod +x /usr/local/bin/palera1n    | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
 | 7. Clear All Content and Settings on iOS 16 Jailbroken Device with a Password
-If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Disable passcodes on A11 devices.    | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Disable passcodes on A11 devices. <br>*Note that passcodes, Face ID/Touch ID, and Apple Pay won't work during this process.<br>*"Settings" > "General" > "Transfer or Reset iPhone."<br>*t "Erase All Content and Settings." Remember to back up your iPhone first.   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 8. Connect the Jailbroken Device to Your Computer   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 9. Run this Command in a Terminal Window : palera1n -cf   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 10. Enter your Device to prepare for DFU mode   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 11. Enter your devices to DFU mode- follow the onscreen instructions.   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 12. After a few minutes, your device will reboot   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 13. Go back to the terminal window and execute the following command to jailbreak palera1n in rootful mode -f   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 14. The device will be preparing for DFU mode again   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 15. Enter the return KEY again  | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 16. Enter your device into DFU mode   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 17. Open the Palera1n app from the Homescreen   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 18. Click the install button   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 19. Click repairing   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 20. Now Sileo package manager is installed on your device   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
 
 
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
