@@ -51,7 +51,9 @@ We have listed the most popular jailbreak methods among jailbreak communities. B
 We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1 & iOS 17.1.1 
 
 
-### 01. Palera1n Virtual Jailbreak
+### 01. Palera1n Jailbreak
+
+###<u>Palera1n tool (latest release)</u>
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palera1nV.png)
 
 Palera1n virtual jailbreak is an upcoming iOS 17 - iOS 17.2 jailbreak method compatible with A8- A 16 devices including latest released iPhone 15 device models.
