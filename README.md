@@ -92,7 +92,7 @@ If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Dis
 | 18. Click the install button   |     |
 | 19. Click repairing   |      |
 | 20. Now Sileo package manager is installed on your device   |   |
-| [▶] <a href="https://youtu.be/eDGx-8C8jPo?si=ENY02FdGNDDPKLRS">Video Guide</a>  |  [▶] <a href="">Video Guide</a>
+| [▶] <a href="https://youtu.be/eDGx-8C8jPo?si=ENY02FdGNDDPKLRS">Video Guide</a>  |  [▶] <a href="https://www.youtube.com/watch?v=3IVDWm_8CgQ">Video Guide</a>
 
 
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
