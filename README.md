@@ -66,6 +66,8 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 ▶ [Download Palera1n tool](https://github.com/palera1n/palera1n/releases)
 
+#### How to install Palera1n
+
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
 
 Palera1n Virtual terminal jailbreak is a web-based online process for all latest devices. Its brand new method processing through the terminal updating modified IPSW keys. It is compatible with iOS 16 – iOS 17.2 device models
