@@ -71,7 +71,13 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 | **macOS**    | **Linux**    |
 | -------------    | --------------------------    |
-| 1. Open a terminal window     | 1. Open up a terminal window     |
+| 1. First, you should clone the Repo using git clone --recursive https://github.com/palera1n/palera1n && cd palera1n     | 1. Open a terminal window of your PC.     |
+| 2. Next, open a terminal window on your Mac and input cd to the directory.     | 2. Then run sudo systemctl stop usbmuxd followed by sudo usbmuxd -f -p command.     |
+| 3. Check if your device is in DFU Mode, otherwise set it to DFU Mode.     | 3. Next, open a new terminal window.     |
+| 4. Run the command, ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered    | 4. Now, clone the Repo using git clone --recursive https://github.com/palera1n/palera1n && cd palera1n
+(If the repo is already cloned, run cd palera1n)     |
+| 2. Run sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"     | 5. Check if your device is in DFU Mode, otherwise set it to DFU Mode.     |
+|     | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
 
 
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
