@@ -71,7 +71,7 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 | **macOS**    | **Linux**    |
 | -------------    | --------------------------    |
-| iOS 17     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)     |
+| 1. Open a terminal window     | 1. Open up a terminal window     |
 
 
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
