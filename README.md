@@ -61,10 +61,16 @@ Palera1n Jailbreak is the first ever semi-tethered jailbreak for iOS 15 & higher
 ### ➤ Palera1n tool (iOS 15 – iOS 17.1 older device models)
 
 Palera1n jailbreak v2.0.0 beta 8 is now available to download.
+
+Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 Plus, iPhone SE (1st), iPhone 6S, iPhone 6S Plus, iPhone 6, iPhone 6 Plus, iPad Mini 2, iPad Mini 3, iPad Mini 4, iPad 5th, iPad 6th, iPad 7th,iPad Air, iPad Air 2, iPad Pro 1st, iPad Pro 2nd, iPod Touch 6, iPod Touch 7iPad Pro (2nd generation), iPad (6th generation), iPad (7th generation)
+
 ▶ [Download Palera1n tool](https://github.com/palera1n/palera1n/releases)
 
 ### ➤ Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
 
+Palera1n Virtual terminal jailbreak is a web-based online process for all latest devices. Its brand new method processing through the terminal updating modified IPSW keys. It is compatible with iOS 16 – iOS 17.2 device models
+
+Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 11 Pro Max, iPhone 11 Pro, iPhone 11, iPhone Xs, iPhone Xs Max, iPhone Xr, iPad mini 5, iPad Air 3, iPad Air 4, iPad 8, iPad Pro 3, iPad Pro 4, iPad Pro 5 
 
 ▶ [Download Palera1n Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)
 
