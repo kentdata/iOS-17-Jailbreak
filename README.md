@@ -71,28 +71,27 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 | **macOS**    | **Linux**    |
 | -------------    | --------------------------    |
-| 1. Download <a href="https://github.com/palera1n/palera1n/releases">Palerain</a> tool.     | 1. Open a terminal window of your PC.     |
-| 2. Open the terminal window     | 2. Then run sudo systemctl stop usbmuxd followed by sudo usbmuxd -f -p command.     |
-| 3. Run sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"     | 3. Next, open a new terminal window.     |
-| 4. Enter the administrator password    | 4. Now, clone the Repo using git clone --recursive https://github.com/palera1n/palera1n && cd palera1n
-(If the repo is already cloned, run cd palera1n)     |
-| 5. Enter this command - sudo xattr -cr /usr/local/bin/palera1n     | 5. Check if your device is in DFU Mode, otherwise set it to DFU Mode.     |
-| 6. Enter this command again - sudo chmod +x /usr/local/bin/palera1n    | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+| 1. Download <a href="https://github.com/palera1n/palera1n/releases">Palerain</a> tool.     | 1. Download the <a href="https://mega.nz/file/QSIjULyB#7WgyWJKatNfC5HuQA4XHm8jMhbwEjZMk-XBW2E-JBaw">help.txt</a> file     |
+| 2. Open the terminal window     | 2. Open up a terminal window     |
+| 3. Run sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"     | 3. Run sudo systemctl stop usbmuxd     |
+| 4. Enter the administrator password    | 4. Run sudo usbmuxd -f -p     |
+| 5. Enter this command - sudo xattr -cr /usr/local/bin/palera1n     | 5. Open up a new terminal window    |
+| 6. Enter this command again - sudo chmod +x /usr/local/bin/palera1n    | 6. Clone the repo with git clone --recursive https://github.com/palera1n/palera1n && cd palera1n<br>*If you’ve already cloned the repo, just run cd palera1n\     |
 | 7. Clear All Content and Settings on iOS 16 Jailbroken Device with a Password
-If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Disable passcodes on A11 devices. <br>*Note that passcodes, Face ID/Touch ID, and Apple Pay won't work during this process.<br>*"Settings" > "General" > "Transfer or Reset iPhone."<br>*t "Erase All Content and Settings." Remember to back up your iPhone first.   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 8. Connect the Jailbroken Device to Your Computer   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 9. Run this Command in a Terminal Window : palera1n -cf   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 10. Enter your Device to prepare for DFU mode   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 11. Enter your devices to DFU mode- follow the onscreen instructions.   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 12. After a few minutes, your device will reboot   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 13. Go back to the terminal window and execute the following command to jailbreak palera1n in rootful mode -f   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 14. The device will be preparing for DFU mode again   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 15. Enter the return KEY again  | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 16. Enter your device into DFU mode   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 17. Open the Palera1n app from the Homescreen   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 18. Click the install button   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 19. Click repairing   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
-| 20. Now Sileo package manager is installed on your device   | 6. Then, run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered command.     |
+If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Disable passcodes on A11 devices. <br>*Note that passcodes, Face ID/Touch ID, and Apple Pay won't work during this process.<br>*"Settings" > "General" > "Transfer or Reset iPhone."<br>*t "Erase All Content and Settings." Remember to back up your iPhone first.   | 7. Run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered<br>*Put your device in DFU Mode before running this command<br>*Put your device in DFU Mode before running this command    |
+| 8. Connect the Jailbroken Device to Your Computer   |   |
+| 9. Run this Command in a Terminal Window : palera1n -cf   |     |
+| 10. Enter your Device to prepare for DFU mode   |     |
+| 11. Enter your devices to DFU mode- follow the onscreen instructions.   |     |
+| 12. After a few minutes, your device will reboot   |    |
+| 13. Go back to the terminal window and execute the following command to jailbreak palera1n in rootful mode -f   |      |
+| 14. The device will be preparing for DFU mode again   |      |
+| 15. Enter the return KEY again  |     |
+| 16. Enter your device into DFU mode   |      |
+| 17. Open the Palera1n app from the Homescreen   |      |
+| 18. Click the install button   |     |
+| 19. Click repairing   |      |
+| 20. Now Sileo package manager is installed on your device   |   |
 | [▶] <a href="https://youtu.be/eDGx-8C8jPo?si=ENY02FdGNDDPKLRS">Video Guide</a>  |  [▶] <a href="">Video Guide</a>
 
 
