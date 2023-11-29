@@ -76,6 +76,8 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 ▶ [Download Palera1n Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)
 
+#### How to install Palera1n Virtual
+
 More details about Palear1n Virtual jailbreak - Click <a href="https://github.com/jbspot/Palera1n-Jailbreak">here</a>
 
 <hr>
