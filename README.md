@@ -71,7 +71,7 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 | **macOS**    | **Linux**    |
 | -------------    | --------------------------    |
-| 1. First, you should clone the Repo using git clone --recursive https://github.com/palera1n/palera1n && cd palera1n     | 1. Open a terminal window of your PC.     |
+| 1. First, you should clone the Repo using <b>git clone --recursive https://github.com/palera1n/palera1n && cd palera1n</b>     | 1. Open a terminal window of your PC.     |
 | 2. Next, open a terminal window on your Mac and input cd to the directory.     | 2. Then run sudo systemctl stop usbmuxd followed by sudo usbmuxd -f -p command.     |
 | 3. Check if your device is in DFU Mode, otherwise set it to DFU Mode.     | 3. Next, open a new terminal window.     |
 | 4. Run the command, ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered    | 4. Now, clone the Repo using git clone --recursive https://github.com/palera1n/palera1n && cd palera1n
