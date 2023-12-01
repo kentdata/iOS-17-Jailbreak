@@ -30,7 +30,7 @@ Read more about
 - iOS 17.0.3
 - iOS 17.1
 - iOS 17.1.1
-- iOS 17.1.1
+- iOS 17.1.2
 
 <hr>
 
