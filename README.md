@@ -1,4 +1,4 @@
-# iOS 17 - 17.1.1 Jailbreak [ install top rated & Verified Solutions ]
+# iOS 17 - 17.1.2 Jailbreak [ install top rated & Verified Solutions ]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17banner.jpg)
 We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
 
@@ -8,12 +8,12 @@ Read more about
 
 [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) 
 
-[iOS 17.1.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
+[iOS 17.1.2 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
 [iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/) (BETA)
 
 
-### iOS 17/ iOS 17.1.1 supported devices:
+### iOS 17/ iOS 17.1.2 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
@@ -30,10 +30,11 @@ Read more about
 - iOS 17.0.3
 - iOS 17.1
 - iOS 17.1.1
+- iOS 17.1.1
 
 <hr>
 
-## iOS 17  - iOS 17.1.1 jailbreak Solutions
+## iOS 17  - iOS 17.1.2 jailbreak Solutions
 
 We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
   
@@ -44,11 +45,12 @@ We have listed the most popular jailbreak methods among jailbreak communities. B
 | iOS 17.0.2     | ✅[Fugu17](https://download.pangu8.com/install/pangu8App*/17/fugu17/) , ✅[Zeon Jailbreak Repo Extractor](https://download.pangu8.com/install/zeon/17/) , ✅[Hacksnow Semi Jailbreak](https://download.pangu8.com/install/pangu8App*/17/hacksnow/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)    |
 | iOS 17.0.3     | ✅[Dopemine17 online jailbreak](https://pangu8.com/dopamine17-online-guide/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[TiJong Xuni Jailbreak](https://pangu8.com/tijong-xuni-step-guide/) , ✅[Cheyote Virtual Jailbreak](https://pangu8.com/cheyote-virtual-jailbreak-install-guide/)    | 
 | iOS 17.1     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Misaka](https://discord.com/channels/1074625970029477919/1091743906342895727) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)    | 
-| iOS 17.1.1     | ✅[KFD Jailbreak app installer](https://download.pangu8.com/install/kfd/17/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     | 
+| iOS 17.1.1     | ✅[KFD Jailbreak app installer](https://download.pangu8.com/install/kfd/17/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     |
+| iOS 17.1.1     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     |
 
 <hr>
 
-We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1 & iOS 17.1.1 
+We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2 
 
 
 ### 01. Palera1n Jailbreak
@@ -174,7 +176,7 @@ In the public TrollStore 2, developers have uncovered a new CoreTrust vulnerabil
 
 <hr>
 
-## Advantages of Jailbreak iOS 17/ iOS 17.1.1
+## Advantages of Jailbreak iOS 17/ iOS 17.1.2
 
 Jailbreaking an iPhone refers to the process of removing software restrictions imposed by Apple on iOS devices. While jailbreaking can provide some benefits to users, it also comes with significant risks and drawbacks. Here are some advantages of jailbreaking an iPhone
 
