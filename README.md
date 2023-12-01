@@ -46,7 +46,7 @@ We have listed the most popular jailbreak methods among jailbreak communities. B
 | iOS 17.0.3     | ✅[Dopemine17 online jailbreak](https://pangu8.com/dopamine17-online-guide/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[TiJong Xuni Jailbreak](https://pangu8.com/tijong-xuni-step-guide/) , ✅[Cheyote Virtual Jailbreak](https://pangu8.com/cheyote-virtual-jailbreak-install-guide/)    | 
 | iOS 17.1     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Misaka](https://discord.com/channels/1074625970029477919/1091743906342895727) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)    | 
 | iOS 17.1.1     | ✅[KFD Jailbreak app installer](https://download.pangu8.com/install/kfd/17/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     |
-| iOS 17.1.1     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     |
+| iOS 17.1.2     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     |
 
 <hr>
 
