@@ -1,4 +1,4 @@
-# iOS 17 - 17.1.2 Jailbreak [ install top rated & Verified Solutions ]
+# iOS 17 - 17.1.2 Jailbreak [ 100% Trusted Tools & Methods   ]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17banner.jpg)
 We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
 
