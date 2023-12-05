@@ -1,4 +1,4 @@
-# Jailbreak iOS 17 with Palerain 
+# Jailbreak iOS 17 with Palerain [Latest News & Updates]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17-palerain-img.jpg)
 We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
 
