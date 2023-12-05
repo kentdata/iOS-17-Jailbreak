@@ -1,5 +1,5 @@
-# iOS 17 - 17.1.2 Jailbreak [ 100% Trusted Tools & Methods   ]
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17banner.jpg)
+# iOS 17 - 17.1.2 Jailbreak with Palerain 
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17-palerain-img.jpg)
 We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
 
 Now iOS 17.2 beta is also available to download for the developers.
