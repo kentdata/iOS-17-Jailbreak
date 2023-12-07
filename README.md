@@ -128,52 +128,6 @@ More details about Palear1n Virtual jailbreak - Click <a href="https://github.co
 
 <hr>
 
-### 02. Sileem Repo Extractor
-Sileem repo extractor is a jailbreak method that revolutionized iOS 16. After iOS 17 released , Sileem repo extractor has upgraded the compatibility with iOS 17 and higher versions also
-
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/sileem.png)
-
-
-▶ [Download Sileem](https://en.sileem.com/install/en/process/sileem-app-installer/17/sileem/)
-
-<hr>
-
-### 03. Unc0ver Black edition
-Unc0ver Black edition is an alternative of Uncover semi-tethered jailbreak tool which is compatible with iOS 17 and higher version jailbreak. Unc0ver Black edition supports installing Cydia black as the default package manager after the jailbreak process is completed.
-
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/uncoverBlack.png)
- 
-
-▶ [Download Unc0ver Black Edition](https://download.pangu8.com/install/pangu8App*/17/uncover-black/)
-
-
-<hr>
-
-### 04. Fugu17 Jailbreak
-Fugu 17 is brand new jailbreak solution for Jailbreak iOS 17 app installation. No errors were reported while running Fugu 17. So it as a jailbreak iOS 17 solution to install the Sileo lite.
-
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/fugu17.png)
-
-
-▶ [Download Fugu17](https://download.pangu8.com/install/pangu8App*/17/fugu17/)
-
-<hr>
-
-## 05. Trollstore IPA installer
-Apart from that you can install IPAs on your iOS 17 phone using the latest Trollstore app. this is a permanent IPA installer that supports iOS 14.0, 15.0-16.6.1, and iOS 17.0.
-
-In the public TrollStore 2, developers have uncovered a new CoreTrust vulnerability in iOS. Updates will include support for iOS 15.5 up to iOS 16.6.1 and iOS 17.0.
-
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/trollstore.jpg)
-
-▶ [Install TrollHelper](https://havoc.app/)
-
-
-![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d01e4429-816d-4fe2-8afe-ea4524e468c2)
-
-
-<hr>
-
 ## Advantages of Jailbreak iOS 17/ iOS 17.1.2
 
 Jailbreaking an iPhone refers to the process of removing software restrictions imposed by Apple on iOS devices. While jailbreaking can provide some benefits to users, it also comes with significant risks and drawbacks. Here are some advantages of jailbreaking an iPhone
