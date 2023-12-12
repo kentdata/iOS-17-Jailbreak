@@ -1,8 +1,6 @@
-# Jailbreak iOS 17 with Palerain [Latest News & Updates]
+# Jailbreak iOS 17 - iOS 17.2 with Palerain [Latest News & Updates]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17-palerain-img.jpg)
 We have tested all the following jailbreak solutions with iOS 17 - iOS 17.1.1. you can choose the best solution to install jailbreak apps, tweaks and themes etc.
-
-Now iOS 17.2 beta is also available to download for the developers.
 
 Read more about
 
@@ -10,8 +8,10 @@ Read more about
 
 [iOS 17.1.2 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
+[iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/)
 
-### iOS 17/ iOS 17.1.2 supported devices:
+
+### iOS 17/ iOS 17.2 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
@@ -29,10 +29,11 @@ Read more about
 - iOS 17.1
 - iOS 17.1.1
 - iOS 17.1.2
+- iOS 17.2
 
 <hr>
 
-We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2 
+We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2  
 
 
 ### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.1 older device models)
