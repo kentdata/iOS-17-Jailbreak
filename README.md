@@ -124,6 +124,22 @@ These are some of the new features in iOS 17.2!. Which new feature is your favor
 Apple's Journal app lets you record your daily thoughts and activities, incorporating data like photos, music listened to, workouts, and more, plus it suggests topics to write about.
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/24e25c76-c979-49d3-ad5c-48438a3537e9)
 
+### New Widgets
+Apple's Journal app lets you record your daily thoughts and activities, incorporating data like photos, music listened to, workouts, and more, plus it suggests topics to write about.
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/9c812fc7-5654-4e95-8617-5448d197cb76)
+
+### Apple Music
+1. Favourite songs playlist
+Up until iOS 17.1, one could mark certain songs as favourites, by tapping on the star icon to receive improved, more personalised recommendations. Starting with iOS 17.2 however, these songs will also be added to a new ‘Favourite Songs’ playlist.
+
+2. Collaborative playlists
+Apple has also introduced a new Collaborative Playlist feature for users, which allows multiple Apple Music users to share a playlist, add, remove, or reorder songs in them, and access the same in real-time.
+
+3. Listening history focus filter
+Say you have multiple people who access your Apple Music account, which often ends up messing up your song recommendations. Well, Apple Music on iOS 17.2 will come with a filter which ensures your song recommendations are not affected by the searches they may run or the music they listen to on the app. The filter is referred to as the Listening History Focus Filter.
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/3aaf32bd-90bd-482e-91de-9ab0ee5b643b)
+
+
   
 
 
