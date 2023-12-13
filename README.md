@@ -116,10 +116,12 @@ More details about Palear1n Virtual jailbreak - Click <a href="https://github.co
 
 <hr>
 
-## iOS 17.3 jailbreak Features
+## iOS 17.2 jailbreak Features
 
 These are some of the new features in iOS 17.2!. Which new feature is your favorite?
 
+### New Journal App
+Apple's Journal app lets you record your daily thoughts and activities, incorporating data like photos, music listened to, workouts, and more, plus it suggests topics to write about.
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/24e25c76-c979-49d3-ad5c-48438a3537e9)
 
   
