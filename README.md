@@ -116,19 +116,14 @@ More details about Palear1n Virtual jailbreak - Click <a href="https://github.co
 
 <hr>
 
-## iOS 17  - iOS 17.1.2 jailbreak Solutions
+## iOS 17.3 jailbreak Features
 
-We have listed the most popular jailbreak methods among jailbreak communities. Below listed iOS 17 - 17.1.1 jailbreak methods are filled with brand new features.
+These are some of the new features in iOS 17.2!. Which new feature is your favorite?
+
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/24e25c76-c979-49d3-ad5c-48438a3537e9)
+
   
-| **Version**    | **Solution**    |
-| -------------    | --------------------------    |
-| iOS 17     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)     |
-| iOS 17.0.1     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[Uncover Black Edition](https://download.pangu8.com/install/pangu8App*/17/uncover-black/)     |
-| iOS 17.0.2     | ✅[Fugu17](https://download.pangu8.com/install/pangu8App*/17/fugu17/) , ✅[Zeon Jailbreak Repo Extractor](https://download.pangu8.com/install/zeon/17/) , ✅[Hacksnow Semi Jailbreak](https://download.pangu8.com/install/pangu8App*/17/hacksnow/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)    |
-| iOS 17.0.3     | ✅[Dopemine17 online jailbreak](https://pangu8.com/dopamine17-online-guide/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[TiJong Xuni Jailbreak](https://pangu8.com/tijong-xuni-step-guide/) , ✅[Cheyote Virtual Jailbreak](https://pangu8.com/cheyote-virtual-jailbreak-install-guide/)    | 
-| iOS 17.1     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Misaka](https://discord.com/channels/1074625970029477919/1091743906342895727) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/) , ✅[Palerain Virtual Jailbreak](https://download.pangu8.com/install/palerain-virtual/17/)    | 
-| iOS 17.1.1     | ✅[KFD Jailbreak app installer](https://download.pangu8.com/install/kfd/17/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     |
-| iOS 17.1.2     | ✅[Sileem Jailbreak Repo Extractor](https://download.pangu8.com/install/pangu8App*/17/sileem-repo-extractor/) , ✅[Checkrain Mirror](https://download.pangu8.com/install/pangu8App*/17/checkra1n-mirror/)     |
+
 
 <hr>
 
