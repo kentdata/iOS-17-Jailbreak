@@ -36,10 +36,11 @@ Read more about
 - iOS 17.1.1
 - iOS 17.1.2
 - iOS 17.2
+- iOS 17.3
 
 <hr>
 
-We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2  
+We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.2  
 
 
 ### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.1 older device models)
@@ -131,7 +132,7 @@ We have listed the most popular jailbreak methods among jailbreak communities. B
 
 <hr>
 
-## Advantages of Jailbreak iOS 17/ iOS 17.1.2
+## Advantages of Jailbreak iOS 17 - iOS 17.3
 
 Jailbreaking an iPhone refers to the process of removing software restrictions imposed by Apple on iOS devices. While jailbreaking can provide some benefits to users, it also comes with significant risks and drawbacks. Here are some advantages of jailbreaking an iPhone
 
@@ -151,7 +152,7 @@ Jailbreaking an iPhone refers to the process of removing software restrictions i
 
 <hr>
 
-## iOS 17/ iOS 17.1.1 jailbreak related news:
+## iOS 17 - iOS 17.3 jailbreak related news:
 
 Happy news for jailbreak communities those who are eagerly awaiting the most secure jailbreak method for iOS 17.
 
