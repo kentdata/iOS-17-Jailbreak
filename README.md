@@ -125,7 +125,7 @@ Apple's Journal app lets you record your daily thoughts and activities, incorpor
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/24e25c76-c979-49d3-ad5c-48438a3537e9)
 
 ### New Widgets
-Apple's Journal app lets you record your daily thoughts and activities, incorporating data like photos, music listened to, workouts, and more, plus it suggests topics to write about.
+The iOS 17.2 update will also include new home screen and lock screen widget options for the Weather and Clock apps. These include daily weather forecasts, sunrise and sunset timings, as well as a digital clock widget.
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/9c812fc7-5654-4e95-8617-5448d197cb76)
 
 ### Apple Music
