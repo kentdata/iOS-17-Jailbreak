@@ -185,7 +185,8 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 - Another new update from Senumy on twitter about POC as “POC and brief explanation for CVE-2023-41993 WebKit JSC bug”
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/poccve.jpg)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/22255b87-55ba-49cc-9130-73fbc3a2b735)
+
 
 - Seekers those who are finding to jailbreak iOS 17, now Correlium  has upgraded to iOS 17 jailbreak.
 
