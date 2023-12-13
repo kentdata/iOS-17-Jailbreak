@@ -10,7 +10,7 @@ Read more about
 
 [iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) 
 
-[iOS 17.1.2 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
+[iOS 17.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
 [iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/)
 
