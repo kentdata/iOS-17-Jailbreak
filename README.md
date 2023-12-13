@@ -171,7 +171,8 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 - On 21st of September opa334 updated his twitter with a curious update as “Has Apple just patched "TrollStore 2: Electric Boogaloo"?
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/boolagu.png)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/08ba7b83-4963-4423-9bb6-94826445bfa1)
+
 
 - Senumy On twitter has updated a news as “new POC is now compatible with iOS 17.1 jailbreak” 
 
