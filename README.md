@@ -40,7 +40,7 @@ Read more about
 
 <hr>
 
-We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.2  
+We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.3  
 
 
 ### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.1 older device models)
@@ -83,7 +83,7 @@ If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Dis
 | [▶] <a href="https://youtu.be/eDGx-8C8jPo?si=ENY02FdGNDDPKLRS">Video Guide</a>  |  [▶] <a href="https://www.youtube.com/watch?v=3IVDWm_8CgQ">Video Guide</a>
 
 
-### 02. Palera1n Virtual Jailbreak (iOS 16 – iOS 17.2 latest device models)
+### 02. Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3 latest device models)
 
 Palera1n Virtual terminal jailbreak is a web-based online process for all latest devices. Its brand new method processing through the terminal updating modified IPSW keys. It is compatible with iOS 16 – iOS 17.2 device models
 
