@@ -1,6 +1,6 @@
 # Jailbreak iOS 17 - iOS 17.3 with Palerain [100% Trusted Solutions]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17-palerain-img.jpg)
-All tested verified iOS 17 - iOS 17.3 jailbreak solutions are listed on this page.
+All tested verified iOS 17 - <a href="https://pangu8.com/ios-17-3-jailbreak/"><u>iOS 17.3 jailbreak</u></a> solutions are listed on this page.
 
 Apple just released the iOS 17.3 beta 1 for the developers. You can experience the following jailbreak methods after installing iOS 17.3 beta. 
 
@@ -13,8 +13,6 @@ Read more about
 [iOS 17.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
 [iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/)
-
-[iOS 17.3 Jailbreak](https://pangu8.com/ios-17-3-jailbreak/)
 
 
 ### iOS 17/ iOS 17.2 supported devices:
