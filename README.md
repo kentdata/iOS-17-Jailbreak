@@ -26,7 +26,7 @@ We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devic
 - iOS 17.1.1
 - iOS 17.1.2
 - iOS 17.2
-- iOS 17.3
+- iOS 17.3 (Beta)
 
 <hr>
 
