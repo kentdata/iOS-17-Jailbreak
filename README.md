@@ -6,14 +6,6 @@ Apple just released the iOS 17.3 beta 1 for the developers. You can experience t
 
 We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devices
 
-Read more about
-
-[iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) 
-
-[iOS 17.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
-
-[iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/)
-
 
 ### iOS 17/ iOS 17.2 supported devices:
 - iPhone XS and iPhone XS Max
@@ -187,6 +179,14 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 
 - Seekers those who are finding to jailbreak iOS 17, now Correlium  has upgraded to iOS 17 jailbreak.
+
+Read more about
+
+[iOS 17 Jailbreak](https://pangu8.com/ios-17-jailbreak/) 
+
+[iOS 17.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
+
+[iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/)
 
 
 ## FAQ
