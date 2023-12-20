@@ -1,4 +1,4 @@
-# Jailbreak iOS 17 - iOS 17.3 with Palerain [100% Trusted Solutions]
+# Jailbreak iOS 17 - iOS 17.3 with Palerain [Latest iOS 17.2.1 UPDATED]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17-palerain-img.jpg)
 All tested verified iOS 17 - <a href="https://pangu8.com/ios-17-3-jailbreak/"><u>iOS 17.3 jailbreak</u></a> solutions are listed on this page.
 
@@ -7,7 +7,7 @@ Apple just released the iOS 17.3 beta 1 for the developers. You can experience t
 We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devices
 
 
-### iOS 17/ iOS 17.2 supported devices:
+### iOS 17 - iOS 17.3 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
@@ -26,11 +26,12 @@ We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devic
 - iOS 17.1.1
 - iOS 17.1.2
 - iOS 17.2
+- iOS 17.2.1
 - iOS 17.3 (Beta)
 
 <hr>
 
-We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.3  
+We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.2.1, iOS 17.3  
 
 
 ### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.1 older device models)
@@ -126,9 +127,9 @@ Jailbreaking an iPhone refers to the process of removing software restrictions i
 
 <hr>
 
-## iOS 17.2 jailbreak Features
+## iOS 17.2 - iOS 17.2.1 jailbreak Features
 
-These are some of the new features in iOS 17.2!. Which new feature is your favorite?
+These are some of the new features in iOS 17.2 - iOS 17.2.1. Which new feature is your favorite?
 
 ### New Journal App
 Apple's Journal app lets you record your daily thoughts and activities, incorporating data like photos, music listened to, workouts, and more, plus it suggests topics to write about.
