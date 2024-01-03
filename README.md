@@ -1,4 +1,4 @@
-# Jailbreak iOS 17 - iOS 17.3 with Palerain [Top Methods 2024]
+# iOS 17 - iOS 17.3 Jailbreak  [Top Methods 2024]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17-palerain-img.jpg)
 All tested verified iOS 17 - <a href="https://pangu8.com/ios-17-3-jailbreak/"><u>iOS 17.3 jailbreak</u></a> solutions are listed on this page.
 
