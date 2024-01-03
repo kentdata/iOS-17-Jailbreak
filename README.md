@@ -1,8 +1,6 @@
 # iOS 17 - iOS 17.3 Jailbreak  [Top Methods 2024]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/17-palerain-img.jpg)
-All tested verified iOS 17 - <a href="https://pangu8.com/ios-17-3-jailbreak/"><u>iOS 17.3 jailbreak</u></a> solutions are listed on this page.
-
-Apple just released the iOS 17.3 beta 1 for the developers. You can experience the following jailbreak methods after installing iOS 17.3 beta. 
+We have listed all the iOS 17 - iOS 17.3 jailbreak solutions with installation guides and download links. So you can use the following listed jailbreak iOS 17.1 - <a href="https://pangu8.com/ios-17-3-jailbreak/">iOS 17.3 jailbreak</a> methods with confidence.
 
 We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devices
 
