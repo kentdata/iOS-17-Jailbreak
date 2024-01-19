@@ -5,7 +5,7 @@ We have listed all the iOS 17 - iOS 17.2 & iOS 17.3 RC jailbreak solutions with 
 We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devices
 
 
-### iOS 17 - iOS 17.3 supported devices:
+### iOS 17 - iOS 17.2 & iOS 17.3 (RC) supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
