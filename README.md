@@ -1,6 +1,6 @@
 # iOS 17 - iOS 17.2 Jailbreak Verified Solutions  [Tested with iOS 17.3 RC]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palerain-with-ios-17.png)
-We have listed all the iOS 17 - iOS 17.2 & iOS 17.3 RC jailbreak solutions with installation guides and download links. So you can use the following listed jailbreak iOS 17 to iOS 17.2 & <a href="https://pangu8.com/ios-17-3-jailbreak/">iOS 17.3 (RC)</a> jailbreak methods with confidence.
+We have listed all the iOS 17 - iOS 17.2 & iOS 17.3 RC jailbreak solutions with installation guides and download links. So you can use the following listed jailbreak iOS 17 to <a href="https://pangu8.com/ios-17-2-jailbreak/">iOS 17.2</a> & <a href="https://pangu8.com/ios-17-3-jailbreak/">iOS 17.3 (RC)</a> jailbreak methods with confidence.
 
 We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devices
 
@@ -157,7 +157,6 @@ Read more about
 
 [iOS 17.1 Jailbreak](https://pangu8.com/ios-17-1-jailbreak/)
 
-[iOS 17.2 Jailbreak](https://pangu8.com/ios-17-2-jailbreak/)
 
 
 ## FAQ
