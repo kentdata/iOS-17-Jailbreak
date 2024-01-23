@@ -126,7 +126,7 @@ Jailbreaking an iPhone refers to the process of removing software restrictions i
 
 ## iOS 17.3 new features:
 
-###Stolen Device Protection
+<b>Stolen Device Protection</b>
 
 Earlier this year, The Wall Street Journal reported about thieves spying on an iPhone user's passcode before stealing the device, often in public places like bars. With knowledge of the passcode, the thief can then change the victim's Apple ID password, turn off Find My, and more to gain full control of the device. The thief can also use the passcode to gain access to passwords stored in iCloud Keychain and other sensitive information.
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/beb3a7c4-b8bd-4faf-a1eb-533f78e0583f)
