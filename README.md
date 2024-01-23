@@ -136,7 +136,7 @@ Earlier this year, The Wall Street Journal reported about thieves spying on an i
 iOS 17.3 and iPadOS 17.3 include Apple's new Unity Bloom wallpaper for the iPhone and iPad, in support of the Black community. The wallpaper includes an outline of flowers that fill with color when the display is active.
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/acb7b16a-ac10-4220-ba95-81f6003c276f)
 
-<b>Apple Music Collaborative Playlists/b>
+<b>Apple Music Collaborative Playlists</b>
 
 A new Collaborative Playlists option for Apple Music subscribers allows multiple people to add, reorder, and remove songs in a shared playlist. Users are able to leave animated emoji reactions next to songs in the playlist.
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/da2f6450-c9b8-4378-97b0-b24939c625cc)
