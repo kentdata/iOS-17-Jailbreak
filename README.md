@@ -1,11 +1,10 @@
 # iOS 17 - iOS 17.3 Verified Jailbreak Solutions
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palerain-with-ios-17.png)
-We have listed all the <a href="https://pangu8.com/ios-17-jailbreak/">iOS 17</a> - iOS 17.2 & iOS 17.3 RC jailbreak solutions with installation guides and download links. So you can use the following listed jailbreak iOS 17 to <a href="https://pangu8.com/ios-17-2-jailbreak/">iOS 17.2</a> & <a href="https://pangu8.com/ios-17-3-jailbreak/">iOS 17.3 (RC)</a> jailbreak methods with confidence.
+We have listed all the <a href="https://pangu8.com/ios-17-jailbreak/">iOS 17</a> - iOS 17.2 & iOS 17.3 jailbreak solutions with installation guides and download links. So you can use the following listed jailbreak iOS 17 to <a href="https://pangu8.com/ios-17-2-jailbreak/">iOS 17.2</a> & <a href="https://pangu8.com/ios-17-3-jailbreak/">iOS 17.3</a> jailbreak methods with confidence.
 
-We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devices
+We have given trusted jailbreak solutions one by one for upto iOS 17 & Recently released iOS 17.3 Public.
 
-
-### iOS 17 - iOS 17.2 & iOS 17.3 (RC) supported devices:
+### iOS 17 - iOS 17.3 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
@@ -25,7 +24,7 @@ We have given trusted jailbreak solutions one by one for iOS 17 - iOS 17.3 devic
 - iOS 17.1.2
 - iOS 17.2
 - iOS 17.2.1
-- iOS 17.3 (RC)
+- iOS 17.3
 
 <hr>
 
@@ -122,6 +121,10 @@ Jailbreaking an iPhone refers to the process of removing software restrictions i
 6. Ad-blocking: You can install ad-blockers and privacy-enhancing tools to reduce the number of ads and tracking on your device.
 
 7. Bypassing restrictions: Jailbreaking can help you bypass carrier restrictions or limitations, such as unlocking your iPhone to use it with different carriers.
+
+<hr>
+
+## iOS 17.3 new features:
 
 <hr>
 
