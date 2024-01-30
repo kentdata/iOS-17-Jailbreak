@@ -1,4 +1,4 @@
-# iOS 17 - iOS 17.3 Verified Jailbreak Solutions [including new features]
+# iOS 17 - iOS 17.3 Jailbreak Solutions [UPDATED]
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palerain-with-ios-17.png)
 We have listed all the iOS 17</a> - iOS 17.2 & iOS 17.3 jailbreak solutions with installation guides and download links. So you can use the following listed jailbreak iOS 17 to iOS 17.2 & iOS 17.3 jailbreak methods with confidence.
 
