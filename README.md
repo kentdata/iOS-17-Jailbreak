@@ -50,7 +50,7 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 | **macOS**    | **Linux**    |
 | -------------    | --------------------------    |
-| 1. Download <a href="https://github.com/palera1n/palera1n/releases">Palerain</a> tool.     | 1. Download the <a href="https://mega.nz/file/QSIjULyB#7WgyWJKatNfC5HuQA4XHm8jMhbwEjZMk-XBW2E-JBaw">help.txt</a> file     |
+| 1. Download Palerain tool from above link.     | 1. Download the <a href="https://mega.nz/file/QSIjULyB#7WgyWJKatNfC5HuQA4XHm8jMhbwEjZMk-XBW2E-JBaw">help.txt</a> file     |
 | 2. Open the terminal window     | 2. Open up a terminal window     |
 | 3. Run sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"     | 3. Run sudo systemctl stop usbmuxd     |
 | 4. Enter the administrator password    | 4. Run sudo usbmuxd -f -p     |
