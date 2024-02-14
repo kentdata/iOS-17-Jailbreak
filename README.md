@@ -74,7 +74,7 @@ If your jailbroken iOS 16 device has a password set, follow these steps:<br>*Dis
 
 ### 02. Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3.1 latest device models)
 
-Palera1n Virtual terminal jailbreak is a web-based online process for all latest devices. Its brand new method processing through the terminal updating modified IPSW keys. It is compatible with iOS 16 – iOS 17.2 device models
+Palera1n Virtual terminal jailbreak is a web-based online process for all latest devices. Its brand new method processing through the terminal updating modified IPSW keys. It is compatible with iOS 16 – iOS 17.3.1 device models
 
 Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 11 Pro Max, iPhone 11 Pro, iPhone 11, iPhone Xs, iPhone Xs Max, iPhone Xr, iPad mini 5, iPad Air 3, iPad Air 4, iPad 8, iPad Pro 3, iPad Pro 4, iPad Pro 5 
 
@@ -82,9 +82,9 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 #### How to install Palera1n Virtual
 
-1. Click the above button, first you need to install Pangu8 App Manager.
+1. Click the above button, first you need to install Xookz app.
 
-2. Launch Pangu8 App Manager from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from jailbreak solutions category.
+2. Launch Xookz app from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from Most popular category.
 
 3. When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.
 
@@ -105,7 +105,7 @@ More details about Palear1n Virtual jailbreak - Click <a href="https://github.co
 
 <hr>
 
-## Advantages of Jailbreak iOS 17 - iOS 17.3
+## Advantages of Jailbreak iOS 17 - iOS 17.3.1
 
 Jailbreaking an iPhone refers to the process of removing software restrictions imposed by Apple on iOS devices. While jailbreaking can provide some benefits to users, it also comes with significant risks and drawbacks. Here are some advantages of jailbreaking an iPhone
 
@@ -146,7 +146,7 @@ A new Collaborative Playlists option for Apple Music subscribers allows multiple
 
 <hr>
 
-## iOS 17 - iOS 17.3 jailbreak related news:
+## iOS 17 - iOS 17.3.1 jailbreak related news:
 
 Happy news for jailbreak communities those who are eagerly awaiting the most secure jailbreak method for iOS 17.
 
