@@ -2,7 +2,7 @@
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palerain-with-ios-17.png)
 We have listed all the iOS 17</a> - iOS 17.2,iOS 17.3 & 17.3.1 jailbreak solutions with installation guides and download links. So you can use the following listed jailbreak methods with 100% confidence.
 
-We have given trusted jailbreak solutions one by one for upto iOS 17 & Recently released iOS 17.3 Public.
+We have given trusted jailbreak solutions one by one for upto iOS 17 & Recently released iOS 17.3.1 Public.
 
 ### iOS 17 - iOS 17.3 supported devices:
 - iPhone XS and iPhone XS Max
