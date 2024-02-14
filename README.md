@@ -43,7 +43,7 @@ Palera1n jailbreak v2.0.0 beta 8 is now available to download.
 
 Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 Plus, iPhone SE (1st), iPhone 6S, iPhone 6S Plus, iPhone 6, iPhone 6 Plus, iPad Mini 2, iPad Mini 3, iPad Mini 4, iPad 5th, iPad 6th, iPad 7th,iPad Air, iPad Air 2, iPad Pro 1st, iPad Pro 2nd, iPod Touch 6, iPod Touch 7iPad Pro (2nd generation), iPad (6th generation), iPad (7th generation)
 
-▶ [Download Palera1n tool](https://github.com/palera1n/palera1n/releases)
+▶ [Download Palera1n tool](https://github.com/jbspot/Palera1n-Jailbreak)
 
 #### How to install Palera1n
 
