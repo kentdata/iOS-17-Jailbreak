@@ -35,6 +35,8 @@ We tested the below discussed solutions including the latest iPhone and iPads on
 ### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.3.1 older device models)
 Palera1n Jailbreak is the first ever semi-tethered jailbreak for iOS 15 & higher running checkm8 devices.
 
+if you have any latest device model, you can install palera1n virtual jailbreak listed below.
+
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palera1nV.png)
 
 Palera1n jailbreak v2.0.0 beta 8 is now available to download.
