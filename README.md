@@ -75,8 +75,6 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 9. Once complete Sileo installation process, there will be a Sileo on your device homescreen. Enjoy the Tweak installation through Sileo.
 
 
-More details about Palear1n Virtual jailbreak - Click <a href="https://github.com/jbspot/Palera1n-Jailbreak">here</a>
-
 <hr>
 
 ## Advantages of Jailbreak iOS 17 - iOS 17.3.1
