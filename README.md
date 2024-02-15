@@ -78,6 +78,7 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 ▶ [Download Palera1n tool](https://github.com/jbspot/Palera1n-Jailbreak)
 
+<br>
 
 ### 02. Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3.1 latest device models)
 
@@ -117,6 +118,13 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. <a href="https://xookz.com/uncover-black-edition/">Unc0ver Black Edition</a> is a brand new web-based jailbreak method to install Cydia black as a Cydia alternative. It was released targeting only for iOS 16 and higher versions. It is best alternative to Uncover semi-untethered jailbreak which was available up to iOS 14.8 jailbreak
 
 ▶ [Install Unc0ver Black Edition](https://xookz.com/github/install/uncover-black/)
+
+## 02. Checkra1n mirror
+
+Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak method now in jailbreak discussions. The reasons are checkra1n mirror is specially designed by a well-known experienced team in the jailbreak community and especially designed for iOS 17 and higher version jailbreak. It is an alternative solution for Checkra1n Jailbreak available up to iOS 14.8.1
+
+▶ [Install Unc0ver Black Edition](https://xookz.com/github/install/checkrain-mirror/)
+
 
 <hr>
 
