@@ -35,9 +35,10 @@ Currently,<br>
 Please note  - checkm8 exploit based iOS 17 - 1.3 Jailbreak is currently available for iPads, If you are iPhone user please only consider repo extractions and virtual Jailbreak methods
 
 <hr>
+
 ## Repo extraction based iOS 17 - 17.3.1 Jailbreak solutions
 
-01. Sileem Repo Extractor
+### 01. Sileem Repo Extractor
 Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.3 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
 
 It is originally a Japanese jailbreak repo extractor & then Sileem team has been upgrade Sileem with adding English version
