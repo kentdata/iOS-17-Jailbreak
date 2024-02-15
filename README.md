@@ -112,6 +112,12 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 ## Virtual iOS 17 - 17.3 Jailbreak Solutions
 
+## 01. Unc0ver Black Edition
+
+Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. <a href="https://xookz.com/uncover-black-edition/">Unc0ver Black Edition</a> is a brand new web-based jailbreak method to install Cydia black as a Cydia alternative. It was released targeting only for iOS 16 and higher versions. It is best alternative to Uncover semi-untethered jailbreak which was available up to iOS 14.8 jailbreak
+
+▶ [Install Unc0ver Black Edition](https://xookz.com/github/install/uncover-black/)
+
 <hr>
 
 ## Advantages of Jailbreak iOS 17 - iOS 17.3.1
