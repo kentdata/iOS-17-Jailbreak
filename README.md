@@ -32,10 +32,20 @@ Currently,<br>
 - iOS 17.3
 - iOS 17.3.1 (checkm8 exploit has not been confirmed yet)
 
+Please note  - checkm8 exploit based iOS 17 - 1.3 Jailbreak is currently available for iPads, If you are iPhone user please only consider repo extractions and virtual Jailbreak methods
+
 <hr>
+## Repo extraction based iOS 17 - 17.3.1 Jailbreak solutions
 
-We tested the below discussed solutions including the latest iPhone and iPads on the latest iOS 17, iOS 17.0.1, iOS 17.0.2, iOS 17.0.3, iOS 17.1, iOS 17.1.1, iOS 17.1.2, iOS 17.2, iOS 17.2.1, iOS 17.3 & iOS 17.3.1 
+01. Sileem Repo Extractor
+Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.3 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
 
+It is originally a Japanese jailbreak repo extractor & then Sileem team has been upgrade Sileem with adding English version
+
+▶ [Install Sileem repo extractor](https://xookz.com/github/install/sileem/)
+
+<hr>
+## Checkm8 exploit based iOS 17 - 17.3 Jailbreak solutions
 
 ### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.3.1 older device models)
 Palera1n Jailbreak is the first ever semi-tethered jailbreak for iOS 15 & higher running checkm8 devices.
