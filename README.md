@@ -113,7 +113,7 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 ## Virtual iOS 17 - 17.3 Jailbreak Solutions
 
-## 01. Unc0ver Black Edition
+### 01. Unc0ver Black Edition
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/uncover-logo.png)
 
@@ -123,7 +123,7 @@ Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. <a h
 
 <br>
 
-## 02. Checkra1n mirror
+### 02. Checkra1n mirror
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/checkra1nmirror-logo.png)
 
@@ -133,7 +133,7 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
 
 <br>
 
-## 03. TiJong Xūnǐ Virtual Jailbreak
+### 03. TiJong Xūnǐ Virtual Jailbreak
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/tijong-logo1.png)
 
