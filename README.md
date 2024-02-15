@@ -39,7 +39,7 @@ Please note  - checkm8 exploit based iOS 17 - 1.3 Jailbreak is currently availab
 ## Repo extraction based iOS 17 - 17.3.1 Jailbreak solutions
 
 ### 01. Sileem Repo Extractor
-Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.3 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
+Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.3 jailbreak. Using <a href="https://xookz.com/sileem/">Sileem repo extractor</a> you can install jailbreak tweaks, apps, themes.
 
 It is originally a Japanese jailbreak repo extractor & then Sileem team has been upgrade Sileem with adding English version
 
@@ -49,7 +49,7 @@ It is originally a Japanese jailbreak repo extractor & then Sileem team has been
 ### 02. Zeon 
 Zeon repo extractor is a jailbreak solution that is still being updated from iOS 14 to iOS 17.3.1. Using zeon, you can install collection of iOS 17.3 - iOS  17.3.1 jailbreak apps, tweaks, themes to customize your iOS 17.3 or iOS 17.3.1 running iDevices. 
 
-Zeon uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.3.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
+<a href="https://xookz.com/zeon/">Zeon</a> uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.3.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
 
 
 ▶ [Install Sileem repo extractor](https://xookz.com/github/install/zeon/)
