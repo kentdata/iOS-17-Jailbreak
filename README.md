@@ -1,5 +1,6 @@
 # iOS 17 - iOS 17.3.1 Jailbreak Solutions
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/palerain-with-ios-17.png)
+
 Jailbreak has been confirmed for iOS 17, iOS 17.2, and iOS 17.3 based on the checkm8 exploit. Several Jailbreak repo extraction and virtual jailbreak solutions confirmed for iOS 17 - 17.3.1 versions.
 
 You don’t need a computer or advanced sideload methods for repo extraction and virtual jailbreak methods. you can directly install them as an app to enable jailbreak features for iOS 17, 17.2, 17.3, etc.
