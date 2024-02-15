@@ -4,7 +4,7 @@ Jailbreak has been confirmed for iOS 17, iOS 17.2, and iOS 17.3 based on the che
 
 You don’t need a computer or advanced sideload methods for repo extraction and virtual jailbreak methods. you can directly install them as an app to enable jailbreak features for iOS 17, 17.2, 17.3, etc.
 
-Currently,
+Currently,<br>
  *Palerain is the only checkm8 exploit-based semi-tethered Jailbreak method. Sileem, Zeon are popular iOS 17 - 17.3.1 jailbreak repo extraction methods, and Unc0ver black, Checkra1n mirror, TiJong Xūnǐ are the virtual jailbreak methods for iOS 17.3.1.
 
 
