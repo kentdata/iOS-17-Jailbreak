@@ -123,7 +123,14 @@ Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. <a h
 
 Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak method now in jailbreak discussions. The reasons are checkra1n mirror is specially designed by a well-known experienced team in the jailbreak community and especially designed for iOS 17 and higher version jailbreak. It is an alternative solution for Checkra1n Jailbreak available up to iOS 14.8.1
 
-▶ [Install Unc0ver Black Edition](https://xookz.com/github/install/checkrain-mirror/)
+▶ [Install Checkra1n Mirror](https://xookz.com/github/install/checkrain-mirror/)
+
+## 03. TiJong Xūnǐ Virtual Jailbreak
+
+Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17.3 - iOS 17.3.1. It is originally a Chinese jailbreak solution.
+It offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
+
+▶ [Install TiJong Xūnǐ](https://xookz.com/github/install/tijong/)
 
 
 <hr>
