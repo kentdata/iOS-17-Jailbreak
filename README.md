@@ -59,7 +59,7 @@ Zeon repo extractor is a jailbreak solution that is still being updated from iOS
 <a href="https://xookz.com/zeon/">Zeon</a> uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.3.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
 
 
-▶ [Install Sileem repo extractor](https://xookz.com/github/install/zeon/)
+▶ [Install Zeon](https://xookz.com/github/install/zeon/)
 
 <hr>
 
