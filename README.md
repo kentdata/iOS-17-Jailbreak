@@ -128,7 +128,7 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
 ## 03. TiJong Xūnǐ Virtual Jailbreak
 
 Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17.3 - iOS 17.3.1. It is originally a Chinese jailbreak solution.
-It offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
+<a href="https://xookz.com/tijong-xuni-jailbreak/">Tijong Xuni</a> offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
 
 ▶ [Install TiJong Xūnǐ](https://xookz.com/github/install/tijong/)
 
