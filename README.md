@@ -30,7 +30,7 @@ Currently,<br>
 - iOS 17.2
 - iOS 17.2.1
 - iOS 17.3
-- iOS 17.3.1
+- iOS 17.3.1 (checkm8 exploit has not been confirmed yet)
 
 <hr>
 
