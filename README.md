@@ -51,7 +51,7 @@ It is originally a Japanese jailbreak repo extractor & then Sileem team has been
 
 ### 02. Zeon 
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/zeon-logo.png)
+![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/zeon-logo1.png)
 
 Zeon repo extractor is a jailbreak solution that is still being updated from iOS 14 to iOS 17.3.1. Using zeon, you can install collection of iOS 17.3 - iOS  17.3.1 jailbreak apps, tweaks, themes to customize your iOS 17.3 or iOS 17.3.1 running iDevices. 
 
