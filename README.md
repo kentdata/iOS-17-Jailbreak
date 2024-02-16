@@ -65,8 +65,13 @@ Zeon repo extractor is a jailbreak solution that is still being updated from iOS
 
 Zeon uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.3.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
 
+<div align="center">
+  
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/1d2ee200-726e-4787-b214-d01633718e8a)
 
 ▶ [Install Zeon](https://xookz.com/github/install/zeon/)
+
+</div>
 
 <hr>
 
@@ -122,21 +127,31 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 ### 01. Unc0ver Black Edition
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/uncover-logo.png)
 
 Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. Unc0ver Black Edition is a brand new web-based jailbreak method to install Cydia black as a Cydia alternative. It was released targeting only for iOS 16 and higher versions. It is best alternative to Uncover semi-untethered jailbreak which was available up to iOS 14.8 jailbreak
 
+<div align="center">
+  
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/668457f7-93fa-4db6-9bc7-8189a91955b2)
+
 ▶ [Install Unc0ver Black Edition](https://xookz.com/github/install/uncover-black/)
+
+</div>
 
 <br>
 
 ### 02. Checkra1n mirror
 
-![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/checkra1nmirror-logo.png)
 
 Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak method now in jailbreak discussions. The reasons are checkra1n mirror is specially designed by a well-known experienced team in the jailbreak community and especially designed for iOS 17 and higher version jailbreak. It is an alternative solution for Checkra1n Jailbreak available up to iOS 14.8.1
 
+<div align="center">
+  
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/f41d4684-e9b2-4e6a-beb0-452d29f2c358)
+
 ▶ [Install Checkra1n Mirror](https://xookz.com/github/install/checkrain-mirror/)
+
+</div>
 
 <br>
 
@@ -147,7 +162,13 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
 Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17.3 - iOS 17.3.1. It is originally a Chinese jailbreak solution.
 Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
 
+<div align="center">
+  
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d162585c-28de-4ffa-9172-2860529b9820)
+
 ▶ [Install TiJong Xūnǐ](https://xookz.com/github/install/tijong/)
+
+</div>
 
 <br> 
 
