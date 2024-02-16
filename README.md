@@ -194,7 +194,7 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 
 Read more about
 
-[iOS 17.3 Jailbreak](https://pangu8.com/ios-17-3-jailbreak/)
+[iOS 17.3 Jailbreak](https://xookz.com/ios-17-3-jailbreak/)
 
 
 
