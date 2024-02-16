@@ -98,7 +98,13 @@ Palera1n Virtual terminal jailbreak is a web-based online process for all latest
 
 Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 11 Pro Max, iPhone 11 Pro, iPhone 11, iPhone Xs, iPhone Xs Max, iPhone Xr, iPad mini 5, iPad Air 3, iPad Air 4, iPad 8, iPad Pro 3, iPad Pro 4, iPad Pro 5 
 
+<div align="center">
+  
+![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/ff07374b-724e-45cc-a103-1f8cb48b1a46)
+
 ▶ [Download Palera1n Virtual Jailbreak](https://xookz.com/github/install/palerain-virtual/)
+
+</div>
 
 #### How to install Palera1n Virtual
 
