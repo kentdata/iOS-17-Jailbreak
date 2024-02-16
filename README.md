@@ -42,7 +42,7 @@ Please note  - checkm8 exploit based iOS 17 - 1.3 Jailbreak is currently availab
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/sileem-logo.png)
 
-Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.3 jailbreak. Using <a href="https://xookz.com/sileem/">Sileem repo extractor</a> you can install jailbreak tweaks, apps, themes.
+Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.3 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
 
 It is originally a Japanese jailbreak repo extractor & then Sileem team has been upgrade Sileem with adding English version
 
@@ -56,7 +56,7 @@ It is originally a Japanese jailbreak repo extractor & then Sileem team has been
 
 Zeon repo extractor is a jailbreak solution that is still being updated from iOS 14 to iOS 17.3.1. Using zeon, you can install collection of iOS 17.3 - iOS  17.3.1 jailbreak apps, tweaks, themes to customize your iOS 17.3 or iOS 17.3.1 running iDevices. 
 
-<a href="https://xookz.com/zeon/">Zeon</a> uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.3.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
+Zeon uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.3.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
 
 
 ▶ [Install Zeon](https://xookz.com/github/install/zeon/)
@@ -117,7 +117,7 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/uncover-logo.png)
 
-Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. <a href="https://xookz.com/uncover-black-edition/">Unc0ver Black Edition</a> is a brand new web-based jailbreak method to install Cydia black as a Cydia alternative. It was released targeting only for iOS 16 and higher versions. It is best alternative to Uncover semi-untethered jailbreak which was available up to iOS 14.8 jailbreak
+Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. Unc0ver Black Edition is a brand new web-based jailbreak method to install Cydia black as a Cydia alternative. It was released targeting only for iOS 16 and higher versions. It is best alternative to Uncover semi-untethered jailbreak which was available up to iOS 14.8 jailbreak
 
 ▶ [Install Unc0ver Black Edition](https://xookz.com/github/install/uncover-black/)
 
@@ -138,7 +138,7 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/blob/main/tijong-logo1.png)
 
 Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17.3 - iOS 17.3.1. It is originally a Chinese jailbreak solution.
-<a href="https://xookz.com/tijong-xuni-jailbreak/">Tijong Xuni</a> offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
+Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
 
 ▶ [Install TiJong Xūnǐ](https://xookz.com/github/install/tijong/)
 
