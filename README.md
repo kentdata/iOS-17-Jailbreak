@@ -1,6 +1,6 @@
 <div align="center">
   
-  # iOS 17 - iOS 17.3.1 Jailbreak Solutions 🍎
+  # iOS 17 - iOS 17.3.1 Jailbreak Solutions 
 
 </div>
 
