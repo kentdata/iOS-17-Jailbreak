@@ -189,6 +189,21 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
 
 </div>
 
+#### How to install Checkra1n mirror
+
+<b>Step 01</b> – Go to the Xookz app store from your iPhone. Using the above button<br>
+<b>Step 02</b> – You can see the Checkra1n mirror application<br>
+<b>Step 03</b> – Click on this. Then you can see the install button on the top right side in this<br>
+<b>Step 04</b> – Then tap on this and you can see allow and ignore such as two solutions with a message. You can choose the allow button from these.<br>
+<b>Step 05</b> – Go to device settings and tap on profile download.<br>
+<b>Step 06</b> – You can see the Checkra1n mirror download here and tap on this.<br>
+<b>Step 07</b> – Then provide your device passcode and tap on the install button.<br>
+<b>Step 08</b> – You can see the Checkra1n mirror app on your home screen after the above process.<br>
+<b>Step 09</b> – Open the Checkra1n mirror >> Click on the GO button<br>
+<b>Step 10</b> – Click on the GET THE APP CODE button, after opening the downloaded CodeGen app >> tap on the hold to copy<br>
+<b>Step 11</b> – Then open the Checkra1n mirror app again >> past the code there >> continue >> run exploit.<br>
+<b>Step 12</b> – Install Cydia client >> allow >> close the profile window >> go to settings >>  install >> provide the device passcode >> install >>  done. <br>
+
 <br>
 
 ### 03. TiJong Xūnǐ Virtual Jailbreak
