@@ -137,13 +137,13 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 #### How to install Palera1n Virtual
 
 <b>Step 01</b> -  Click the above button, first you need to install Xookz app.
-<b>Step 02</b> -  Launch Xookz app from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from Most popular category.
-<b>Step 03</b> -  When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.
-<b>Step 04</b> -  Open the terminal and Activate the terminal and wait for the device to be detected.
-<b>Step 05</b> -  Copy the device IPSW key from the IPSW file available on homescreen.
-<b>Step 06</b> -  Paste it on the terminal > Done.  Once you get the correct key, you will get the “Key Matched!” pop up and the jailbreak process will continue. Wait for the jailbreak procedure to be finished. It will provide a palera1n download button.
-<b>Step 07</b> -  Go ahead with the installation process. Now you will see the Palerain loader app on your device home screen instead of terminal.
-<b>Step 08</b> -  Open the Palera1n loader, tap the Install button, it will start the bootstrap process and Sileo registering process. Finally you will see the Sileo Install button.
+<b>Step 02</b> -  Launch Xookz app from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from Most popular category.<br>
+<b>Step 03</b> -  When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.<br>
+<b>Step 04</b> -  Open the terminal and Activate the terminal and wait for the device to be detected.<br>
+<b>Step 05</b> -  Copy the device IPSW key from the IPSW file available on homescreen.<br>
+<b>Step 06</b> -  Paste it on the terminal > Done.  Once you get the correct key, you will get the “Key Matched!” pop up and the jailbreak process will continue. Wait for the jailbreak procedure to be finished. It will provide a palera1n download button.<br>
+<b>Step 07</b> -  Go ahead with the installation process. Now you will see the Palerain loader app on your device home screen instead of terminal.<br>
+<b>Step 08</b> -  Open the Palera1n loader, tap the Install button, it will start the bootstrap process and Sileo registering process. Finally you will see the Sileo Install button.<br>
 <b>Step 09</b> -  Once complete Sileo installation process, there will be a Sileo on your device homescreen. Enjoy the Tweak installation through Sileo.
 
 
