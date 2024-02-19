@@ -164,6 +164,16 @@ Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. Unc0
 
 </div>
 
+#### How to install Unc0ver Black Edition
+
+<b>Step 01</b> – Click on ”Install Unc0ver Black Edition“<br>
+<b>Step 02</b> – Xookz app store will downloaded<br>
+<b>Step 03</b> – Open Xookz app tap on Download UncOver Black Edition<br>
+<b>Step 04</b> – Go to device settings > click on install > allow > close<br>
+<b>Step 05</b> – Unc0ver Black  will appear on home screen<br>
+<b>Step 06</b> – Open  Unc0ver Black Edition<br>
+<b>Step 07</b> – Tap on Jailbreak >wait until the jailbreak process completed >Cydia 2 will be automatically display on your home screen 
+
 <br>
 
 ### 02. Checkra1n mirror
