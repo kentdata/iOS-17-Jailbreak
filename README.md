@@ -59,12 +59,12 @@ It is originally a Japanese jailbreak repo extractor & then Sileem team has been
 
 #### How to install Zeon
 
-Step 01 – Open Xookz App Store, then tap on Zeon (Full)
-Step 02 – Tap the Install the Button on the right upper corner, you’ll get a popup -> Tap on Allow button to get the Configuration Profile in to your iPhone.
-Step 03 – Go to Settings, then select Profile Downloaded ->  Tap on install button on the right upper corner
-Step 04 – Provide your Home screen passcode and tap on install button.
-Step 05 – It’s time to experience the Zeon Repo Extractor.
-Step 06 – Open the Zeon Repo Extractor
+<b>Step 01</b> – Open Xookz App Store, then tap on Zeon (Full)<br>
+<b>Step 02</b> – Tap the Install the Button on the right upper corner, you’ll get a popup -> Tap on Allow button to get the Configuration Profile in to your iPhone.<br>
+<b>Step 03</b> – Go to Settings, then select Profile Downloaded ->  Tap on install button on the right upper corner<br>
+<b>Step 04</b> – Provide your Home screen passcode and tap on install button.<br>
+<b>Step 05</b> – It’s time to experience the Zeon Repo Extractor.<br>
+<b>Step 06</b> – Open the Zeon Repo Extractor<br>
 Congratulations! You have successfully installed the Zeon Repo Extractor on your iPhone Device. 
 
 <br>
