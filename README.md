@@ -53,7 +53,7 @@ It is originally a Japanese jailbreak repo extractor & then Sileem team has been
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/c1e6fa06-3abd-4185-a70f-1ed9109fe9d1)
 
 
-▶ [Install Sileem repo extractor](https://xookz.com/github/install/sileem/)
+📥 [Install Sileem repo extractor](https://xookz.com/github/install/sileem/)
 
 </div>
 
@@ -83,7 +83,7 @@ Zeon uses a repo extracting method to install third party jailbreak apps, it is 
   
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/1d2ee200-726e-4787-b214-d01633718e8a)
 
-▶ [Install Zeon](https://xookz.com/github/install/zeon/)
+📥 [Install Zeon](https://xookz.com/github/install/zeon/)
 
 </div>
 
@@ -114,7 +114,7 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/caf04a9d-f9a4-4ba2-a32b-31d963aa30d9)
 
-▶ [Download Palera1n tool](https://github.com/jbspot/Palera1n-Jailbreak)
+📥 [Download Palera1n tool](https://github.com/jbspot/Palera1n-Jailbreak)
 
 </div>
 
@@ -130,7 +130,7 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
   
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/ff07374b-724e-45cc-a103-1f8cb48b1a46)
 
-▶ [Download Palera1n Virtual Jailbreak](https://xookz.com/github/install/palerain-virtual/)
+📥 [Download Palera1n Virtual Jailbreak](https://xookz.com/github/install/palerain-virtual/)
 
 </div>
 
@@ -160,7 +160,7 @@ Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. Unc0
   
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/668457f7-93fa-4db6-9bc7-8189a91955b2)
 
-▶ [Install Unc0ver Black Edition](https://xookz.com/github/install/uncover-black/)
+📥 [Install Unc0ver Black Edition](https://xookz.com/github/install/uncover-black/)
 
 </div>
 
@@ -185,7 +185,7 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
   
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/f41d4684-e9b2-4e6a-beb0-452d29f2c358)
 
-▶ [Install Checkra1n Mirror](https://xookz.com/github/install/checkrain-mirror/)
+📥 [Install Checkra1n Mirror](https://xookz.com/github/install/checkrain-mirror/)
 
 </div>
 
@@ -215,7 +215,7 @@ Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cy
   
 ![image](https://github.com/jbspot/iOS-17-Jailbreak/assets/148752383/d162585c-28de-4ffa-9172-2860529b9820)
 
-▶ [Install TiJong Xūnǐ](https://xookz.com/github/install/tijong/)
+📥 [Install TiJong Xūnǐ](https://xookz.com/github/install/tijong/)
 
 </div>
 
