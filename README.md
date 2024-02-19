@@ -219,6 +219,17 @@ Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cy
 
 </div>
 
+#### How to install TiJong Xūnǐ Virtual Jailbreak
+
+<b>Step 01</b> – Open Xookz App Store on your iPhone and Tap on Tijong Xuni Jailbreak<br>
+<b>Step 02</b> – Tap on install button on the right upper corner > When the popup appears, tap Allow button to continue<br>
+<b>Step 03</b> – Go to Settings and tap Profile Downloaded<br>
+<b>Step 04</b> – Again tap on install button > Give your home screen passcode<br>
+<b>Step 05</b> – On the bottom of the screen you can see the install button tap on it > When the installation process is over, you can see the Done button on the right upper corner > Tap on it<br>
+<b>Step 06</b> – Now you can experience Tijong Xuni Jailbreak  to install apps you want to install on your iPhone.<br>
+<b>Step 07</b> – Once you open the Tijong Xuni app on your iPhone, tap on Jailbreak button<br>
+<b>Step 08</b> – Then you’ll see the following message on the screen > it’s time to install Cydia 2 on your iPhone to experience wide variety of app collections
+
 <br> 
 
 <hr>
