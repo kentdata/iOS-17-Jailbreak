@@ -58,15 +58,24 @@ It is originally a Japanese jailbreak repo extractor & then Sileem team has been
 
 #### How to install Sileem
 
-⦿ <b>Step 01</b> – Tap on above “Install Sileem repo extractor“<br>
-⦿ <b>Step 02</b> – Xookz app will download first<br>
-⦿ <b>Step 03</b> – Go to device settings> enter device password>install > allow > close<br>
-⦿ <b>Step 04</b> – Open Xookz > select Sileem and download Sileem<br>
-⦿ <b>Step 05</b> – Sileem app will download to the device settings<br>
-⦿ <b>Step 06</b> – Tap on device settings> profile download> enter device password> install> allow> close<br>
-⦿ <b>Step 07</b> – Sileem will appear on home screen<br> 
-⦿ <b>Step 08</b> – Open Sileem <br>
-⦿ <b>Step 09</b> – Go to “all repos Urls” and copy a link that you wish to install<br>
+⦿ <b>Step 01</b> – Tap on above “Install Sileem repo extractor“
+
+⦿ <b>Step 02</b> – Xookz app will download first
+
+⦿ <b>Step 03</b> – Go to device settings> enter device password>install > allow > close
+
+⦿ <b>Step 04</b> – Open Xookz > select Sileem and download Sileem
+
+⦿ <b>Step 05</b> – Sileem app will download to the device settings
+
+⦿ <b>Step 06</b> – Tap on device settings> profile download> enter device password> install> allow> close
+
+⦿ <b>Step 07</b> – Sileem will appear on home screen
+
+⦿ <b>Step 08</b> – Open Sileem 
+
+⦿ <b>Step 09</b> – Go to “all repos Urls” and copy a link that you wish to install
+
 ⦿ <b>Step 10</b> - Paste the link in Extract repos option
 
 <br>
