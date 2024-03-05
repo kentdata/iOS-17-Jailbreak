@@ -97,12 +97,18 @@ Zeon uses a repo extracting method to install third party jailbreak apps, it is 
 
 #### How to install Zeon
 
-⦿ <b>Step 01</b> – Open Xookz App Store, then tap on Zeon (Full)<br>
-⦿ <b>Step 02</b> – Tap the Install the Button on the right upper corner, you’ll get a popup -> Tap on Allow button to get the Configuration Profile in to your iPhone.<br>
-⦿ <b>Step 03</b> – Go to Settings, then select Profile Downloaded ->  Tap on install button on the right upper corner<br>
-⦿ <b>Step 04</b> – Provide your Home screen passcode and tap on install button.<br>
-⦿ <b>Step 05</b> – It’s time to experience the Zeon Repo Extractor.<br>
-⦿ <b>Step 06</b> – Open the Zeon Repo Extractor<br><br>
+⦿ <b>Step 01</b> – Open Xookz App Store, then tap on Zeon (Full)
+
+⦿ <b>Step 02</b> – Tap the Install the Button on the right upper corner, you’ll get a popup -> Tap on Allow button to get the Configuration Profile in to your iPhone.
+
+⦿ <b>Step 03</b> – Go to Settings, then select Profile Downloaded ->  Tap on install button on the right upper corner
+
+⦿ <b>Step 04</b> – Provide your Home screen passcode and tap on install button.
+
+⦿ <b>Step 05</b> – It’s time to experience the Zeon Repo Extractor.
+
+⦿ <b>Step 06</b> – Open the Zeon Repo Extractor
+
 Congratulations! You have successfully installed the Zeon Repo Extractor on your iPhone Device. 
 
 <hr>
@@ -144,14 +150,22 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 #### How to install Palera1n Virtual
 
-⦿ <b>Step 01</b> -  Click the above button, first you need to install Xookz app.<br>
-⦿ <b>Step 02</b> -  Launch Xookz app from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from Most popular category.<br>
-⦿ <b>Step 03</b> -  When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.<br>
-⦿ <b>Step 04</b> -  Open the terminal and Activate the terminal and wait for the device to be detected.<br>
-⦿ <b>Step 05</b> -  Copy the device IPSW key from the IPSW file available on homescreen.<br>
-⦿ <b>Step 06</b> -  Paste it on the terminal > Done.  Once you get the correct key, you will get the “Key Matched!” pop up and the jailbreak process will continue. Wait for the jailbreak procedure to be finished. It will provide a palera1n download button.<br>
-⦿ <b>Step 07</b> -  Go ahead with the installation process. Now you will see the Palerain loader app on your device home screen instead of terminal.<br>
-⦿ <b>Step 08</b> -  Open the Palera1n loader, tap the Install button, it will start the bootstrap process and Sileo registering process. Finally you will see the Sileo Install button.<br>
+⦿ <b>Step 01</b> -  Click the above button, first you need to install Xookz app.
+
+⦿ <b>Step 02</b> -  Launch Xookz app from your iPhone or iPad, download Palera1n Virtual Terminal Jailbreak from Most popular category.
+
+⦿ <b>Step 03</b> -  When complete the installation process it will add both terminal & Palera1n IPSW File to your iOS device homescreen.
+
+⦿ <b>Step 04</b> -  Open the terminal and Activate the terminal and wait for the device to be detected.
+
+⦿ <b>Step 05</b> -  Copy the device IPSW key from the IPSW file available on homescreen.
+
+⦿ <b>Step 06</b> -  Paste it on the terminal > Done.  Once you get the correct key, you will get the “Key Matched!” pop up and the jailbreak process will continue. Wait for the jailbreak procedure to be finished. It will provide a palera1n download button.
+
+⦿ <b>Step 07</b> -  Go ahead with the installation process. Now you will see the Palerain loader app on your device home screen instead of terminal.
+
+⦿ <b>Step 08</b> -  Open the Palera1n loader, tap the Install button, it will start the bootstrap process and Sileo registering process. Finally you will see the Sileo Install button.
+
 ⦿ <b>Step 09</b> -  Once complete Sileo installation process, there will be a Sileo on your device homescreen. Enjoy the Tweak installation through Sileo.
 
 
@@ -174,12 +188,18 @@ Unc0ver Black edition works as an iOS 17.3 - iOS 17.2.1 jailbreak solution. Unc0
 
 #### How to install Unc0ver Black Edition
 
-⦿ <b>Step 01</b> – Click on ”Install Unc0ver Black Edition“<br>
-⦿ <b>Step 02</b> – Xookz app store will downloaded<br>
-⦿ <b>Step 03</b> – Open Xookz app tap on Download UncOver Black Edition<br>
-⦿ <b>Step 04</b> – Go to device settings > click on install > allow > close<br>
-⦿ <b>Step 05</b> – Unc0ver Black  will appear on home screen<br>
-⦿ <b>Step 06</b> – Open  Unc0ver Black Edition<br>
+⦿ <b>Step 01</b> – Click on ”Install Unc0ver Black Edition“
+
+⦿ <b>Step 02</b> – Xookz app store will downloaded
+
+⦿ <b>Step 03</b> – Open Xookz app tap on Download UncOver Black Edition
+
+⦿ <b>Step 04</b> – Go to device settings > click on install > allow > close
+
+⦿ <b>Step 05</b> – Unc0ver Black  will appear on home screen
+
+⦿ <b>Step 06</b> – Open  Unc0ver Black Edition
+
 ⦿ <b>Step 07</b> – Tap on Jailbreak >wait until the jailbreak process completed >Cydia 2 will be automatically display on your home screen 
 
 <br>
@@ -199,18 +219,29 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
 
 #### How to install Checkra1n mirror
 
-⦿ <b>Step 01</b> – Go to the Xookz app store from your iPhone. Using the above button<br>
-⦿ <b>Step 02</b> – You can see the Checkra1n mirror application<br>
-⦿ <b>Step 03</b> – Click on this. Then you can see the install button on the top right side in this<br>
-⦿ <b>Step 04</b> – Then tap on this and you can see allow and ignore such as two solutions with a message. You can choose the allow button from these.<br>
-⦿ <b>Step 05</b> – Go to device settings and tap on profile download.<br>
-⦿ <b>Step 06</b> – You can see the Checkra1n mirror download here and tap on this.<br>
-⦿ <b>Step 07</b> – Then provide your device passcode and tap on the install button.<br>
-⦿ <b>Step 08</b> – You can see the Checkra1n mirror app on your home screen after the above process.<br>
-⦿ <b>Step 09</b> – Open the Checkra1n mirror >> Click on the GO button<br>
-⦿ <b>Step 10</b> – Click on the GET THE APP CODE button, after opening the downloaded CodeGen app >> tap on the hold to copy<br>
-⦿ <b>Step 11</b> – Then open the Checkra1n mirror app again >> past the code there >> continue >> run exploit.<br>
-⦿ <b>Step 12</b> – Install Cydia client >> allow >> close the profile window >> go to settings >>  install >> provide the device passcode >> install >>  done. <br>
+⦿ <b>Step 01</b> – Go to the Xookz app store from your iPhone. Using the above button
+
+⦿ <b>Step 02</b> – You can see the Checkra1n mirror application
+
+⦿ <b>Step 03</b> – Click on this. Then you can see the install button on the top right side in this
+
+⦿ <b>Step 04</b> – Then tap on this and you can see allow and ignore such as two solutions with a message. You can choose the allow button from these.
+
+⦿ <b>Step 05</b> – Go to device settings and tap on profile download.
+
+⦿ <b>Step 06</b> – You can see the Checkra1n mirror download here and tap on this.
+
+⦿ <b>Step 07</b> – Then provide your device passcode and tap on the install button.
+
+⦿ <b>Step 08</b> – You can see the Checkra1n mirror app on your home screen after the above process.
+
+⦿ <b>Step 09</b> – Open the Checkra1n mirror >> Click on the GO button
+
+⦿ <b>Step 10</b> – Click on the GET THE APP CODE button, after opening the downloaded CodeGen app >> tap on the hold to copy
+
+⦿ <b>Step 11</b> – Then open the Checkra1n mirror app again >> past the code there >> continue >> run exploit.
+
+⦿ <b>Step 12</b> – Install Cydia client >> allow >> close the profile window >> go to settings >>  install >> provide the device passcode >> install >>  done.
 
 <br>
 
@@ -229,13 +260,20 @@ Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cy
 
 #### How to install TiJong Xūnǐ Virtual Jailbreak
 
-⦿ <b>Step 01</b> – Open Xookz App Store on your iPhone and Tap on Tijong Xuni Jailbreak<br>
-⦿ <b>Step 02</b> – Tap on install button on the right upper corner > When the popup appears, tap Allow button to continue<br>
-⦿ <b>Step 03</b> – Go to Settings and tap Profile Downloaded<br>
-⦿ <b>Step 04</b> – Again tap on install button > Give your home screen passcode<br>
-⦿ <b>Step 05</b> – On the bottom of the screen you can see the install button tap on it > When the installation process is over, you can see the Done button on the right upper corner > Tap on it<br>
-⦿ <b>Step 06</b> – Now you can experience Tijong Xuni Jailbreak  to install apps you want to install on your iPhone.<br>
-⦿ <b>Step 07</b> – Once you open the Tijong Xuni app on your iPhone, tap on Jailbreak button<br>
+⦿ <b>Step 01</b> – Open Xookz App Store on your iPhone and Tap on Tijong Xuni Jailbreak
+
+⦿ <b>Step 02</b> – Tap on install button on the right upper corner > When the popup appears, tap Allow button to continue
+
+⦿ <b>Step 03</b> – Go to Settings and tap Profile Downloaded
+
+⦿ <b>Step 04</b> – Again tap on install button > Give your home screen passcode
+
+⦿ <b>Step 05</b> – On the bottom of the screen you can see the install button tap on it > When the installation process is over, you can see the Done button on the right upper corner > Tap on it
+
+⦿ <b>Step 06</b> – Now you can experience Tijong Xuni Jailbreak  to install apps you want to install on your iPhone.
+
+⦿ <b>Step 07</b> – Once you open the Tijong Xuni app on your iPhone, tap on Jailbreak button
+
 ⦿ <b>Step 08</b> – Then you’ll see the following message on the screen > it’s time to install Cydia 2 on your iPhone to experience wide variety of app collections
 
 <br> 
