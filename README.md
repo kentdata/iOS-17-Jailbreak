@@ -1,6 +1,6 @@
 <div align="center">
   
-  # iOS 17 - iOS 17.3.1 Jailbreak Tested Solutions
+  # iOS 17 - iOS 17.3.1 Jailbreak Solutions [100% Trusted]
 
 </div>
 
