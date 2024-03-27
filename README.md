@@ -35,7 +35,7 @@ Currently,<br>
 - iOS 17.3
 - iOS 17.3.1 (checkm8 exploit has not been confirmed yet)
 
-Please note  - checkm8 exploit based iOS 17 - 1.3 Jailbreak is currently available for iPads, If you are iPhone user please only consider repo extractions and virtual Jailbreak methods
+Please note  - checkm8 exploit based iOS 17 - 17.3 Jailbreak is currently available for iPads, If you are iPhone user please only consider repo extractions and virtual Jailbreak methods
 
 <hr>
 
