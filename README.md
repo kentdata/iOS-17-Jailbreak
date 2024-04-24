@@ -1,18 +1,18 @@
 <div align="center">
   
-  # iOS 17 - iOS 17.3.1 Jailbreak Solutions
+  # iOS 17 - iOS 17.4.1 Jailbreak Solutions [Complete Guide]
 
 </div>
 
-Jailbreak has been confirmed for iOS 17, iOS 17.2, and iOS 17.3 based on the checkm8 exploit. Several Jailbreak repo extraction and virtual jailbreak solutions confirmed for iOS 17 - 17.3.1 versions.
+Jailbreak has been confirmed for iOS 17, iOS 17.2, iOS 17.3 & iOS 17.4.1 based on the checkm8 exploit. Several Jailbreak repo extraction and virtual jailbreak solutions confirmed for iOS 17 - 17.4.1 versions.
 
-You don’t need a computer or advanced sideload methods for repo extraction and virtual jailbreak methods. you can directly install them as an app to enable jailbreak features for iOS 17, 17.2, 17.3, etc.
+You don’t need a computer or advanced sideload methods for repo extraction and virtual jailbreak methods. you can directly install them as an app to enable jailbreak features for iOS 17, 17.2, 17.3, 17.4 & 17.4.1 etc.
 
 Currently,<br>
- *Palerain is the only checkm8 exploit-based semi-tethered Jailbreak method. Sileem, Zeon are popular iOS 17 - 17.3.1 jailbreak repo extraction methods, and Unc0ver black, Checkra1n mirror, TiJong Xūnǐ are the virtual jailbreak methods for iOS 17.3.1.
+ *Palerain is the only checkm8 exploit-based semi-tethered Jailbreak method. Sileem, Zeon are popular iOS 17 - 17.4.1 jailbreak repo extraction methods, and Unc0ver black, Checkra1n mirror, TiJong Xūnǐ are the virtual jailbreak methods for iOS 17.4.1.
 
 
-### iOS 17 - iOS 17.3 supported devices:
+### iOS 17 - iOS 17.4.1 supported devices:
 - iPhone XS and iPhone XS Max
 - iPhone XR
 - iPhone SE 2, iPhone SE 3
@@ -33,18 +33,20 @@ Currently,<br>
 - iOS 17.2
 - iOS 17.2.1
 - iOS 17.3
-- iOS 17.3.1 (checkm8 exploit has not been confirmed yet)
+- iOS 17.3.1
+- iOS 17.4
+- iOS 17.4.1 
 
-Please note  - checkm8 exploit based iOS 17 - 17.3 Jailbreak is currently available for iPads, If you are iPhone user please only consider repo extractions and virtual Jailbreak methods
+Please note  - checkm8 exploit based iOS 17 - 17.4.1 Jailbreak is currently available for iPads, If you are iPhone user please only consider repo extractions and virtual Jailbreak methods
 
 <hr>
 
-## Repo extraction based iOS 17 - 17.3.1 Jailbreak solutions
+## Repo extraction based iOS 17 - 17.4.1 Jailbreak solutions
 
 ### 01. Sileem Repo Extractor
 
 
-Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.3 & iOS 17.3.1 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
+Sileem is a popular repo extractor for the latest iPhone models. This is the most effective way to jailbreak iOS 17 – iOS 17.4.1 jailbreak. Using Sileem repo extractor you can install jailbreak tweaks, apps, themes.
 
 It is originally a Japanese jailbreak repo extractor & then Sileem team has been upgrade Sileem with adding English version
 
@@ -83,9 +85,9 @@ It is originally a Japanese jailbreak repo extractor & then Sileem team has been
 ### 02. Zeon 
 
 
-Zeon repo extractor is a jailbreak solution that is still being updated from iOS 14 to iOS 17.3.1. Using zeon, you can install collection of iOS 17.3 - iOS  17.3.1 jailbreak apps, tweaks, themes to customize your iOS 17.3 or iOS 17.3.1 running iDevices. 
+Zeon repo extractor is a jailbreak solution that is still being updated from iOS 14 to iOS 17.4.1. Using zeon, you can install collection of iOS 17.3 - iOS  17.4.1 jailbreak apps, tweaks, themes to customize your iOS 17.3 or iOS 17.4.1 running iDevices. 
 
-Zeon uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.3.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
+Zeon uses a repo extracting method to install third party jailbreak apps, it is a very famous jailbreak solution among iOS 14 to iOS 17.4.1 users. You can download Zeon repo extractor jailbreak solution from Xookz app store. tap the following button to install it.
 
 <div align="center">
   
@@ -113,9 +115,9 @@ Congratulations! You have successfully installed the Zeon Repo Extractor on your
 
 <hr>
 
-## Checkm8 exploit based iOS 17 - 17.3 Jailbreak solutions
+## Checkm8 exploit based iOS 17 - 17.4.1 Jailbreak solutions
 
-### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.3.1 older device models)
+### 01. Palera1n Jailbreak Tool (iOS 15 – iOS 17.4.1 older device models)
 Palera1n Jailbreak is the first ever semi-tethered jailbreak for iOS 15 & higher running checkm8 devices.
 
 if you have any latest device model, you can install palera1n virtual jailbreak listed below.
@@ -134,9 +136,9 @@ Compatible Device list - iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 P
 
 <br>
 
-### 02. Palera1n Virtual Jailbreak (iOS 16 – iOS 17.3.1 latest device models)
+### 02. Palera1n Virtual Jailbreak (iOS 16 – iOS 17.4.1 latest device models)
 
-Palera1n Virtual terminal jailbreak is a web-based online process for all latest devices. Its brand new method processing through the terminal updating modified IPSW keys. It is compatible with iOS 16 – iOS 17.3.1 device models
+Palera1n Virtual terminal jailbreak is a web-based online process for all latest devices. Its brand new method processing through the terminal updating modified IPSW keys. It is compatible with iOS 16 – iOS 17.4.1 device models
 
 Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 11 Pro Max, iPhone 11 Pro, iPhone 11, iPhone Xs, iPhone Xs Max, iPhone Xr, iPad mini 5, iPad Air 3, iPad Air 4, iPad 8, iPad Pro 3, iPad Pro 4, iPad Pro 5 
 
@@ -171,12 +173,12 @@ Compatible Device list - iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro
 
 <hr>
 
-## Virtual iOS 17 - 17.3.1 Jailbreak Solutions
+## Virtual iOS 17 - 17.4.1 Jailbreak Solutions
 
 ### 01. Unc0ver Black Edition
 
 
-Unc0ver Black edition works as an iOS 17.3 - iOS 17.3.1 jailbreak solution. Unc0ver Black Edition is a brand new web-based jailbreak method to install Cydia black as a Cydia alternative. It was released targeting only for iOS 16 and higher versions. It is best alternative to Uncover semi-untethered jailbreak which was available up to iOS 14.8 jailbreak
+Unc0ver Black edition works as an iOS 17.3 - iOS 17.4.1 jailbreak solution. Unc0ver Black Edition is a brand new web-based jailbreak method to install Cydia black as a Cydia alternative. It was released targeting only for iOS 16 and higher versions. It is best alternative to Uncover semi-untethered jailbreak which was available up to iOS 14.8 jailbreak
 
 <div align="center">
   
@@ -207,7 +209,7 @@ Unc0ver Black edition works as an iOS 17.3 - iOS 17.3.1 jailbreak solution. Unc0
 ### 02. Checkra1n mirror
 
 
-Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak method now in jailbreak discussions. The reasons are checkra1n mirror is specially designed by a well-known experienced team in the jailbreak community and especially designed for iOS 17 and higher version jailbreak. It is an alternative solution for Checkra1n Jailbreak available up to iOS 14.8.1
+Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.4.1 jailbreak method now in jailbreak discussions. The reasons are checkra1n mirror is specially designed by a well-known experienced team in the jailbreak community and especially designed for iOS 17 and higher version jailbreak. It is an alternative solution for Checkra1n Jailbreak available up to iOS 14.8.1
 
 <div align="center">
   
@@ -247,7 +249,7 @@ Checkra1n mirror jailbreak is the most popular iOS 17.3 - iOS 17.3.1 jailbreak m
 
 ### 03. TiJong Xūnǐ Virtual Jailbreak
 
-Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17.3 - iOS 17.3.1. It is originally a Chinese jailbreak solution.
+Tijong Xuni is virtual jailbreak solution for the latest iOS versions upto iOS 17 such as iOS 17.3 - iOS 17.4.1. It is originally a Chinese jailbreak solution.
 Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cydia alternative.
 
 <div align="center">
@@ -280,7 +282,7 @@ Tijong Xuni offers to download Cydia 2 after the virtual jailbreak process as Cy
 
 <hr>
 
-## Advantages of Jailbreak iOS 17 - iOS 17.3.1
+## Advantages of Jailbreak iOS 17 - iOS 17.4.1
 
 Jailbreaking an iPhone refers to the process of removing software restrictions imposed by Apple on iOS devices. While jailbreaking can provide some benefits to users, it also comes with significant risks and drawbacks. Here are some advantages of jailbreaking an iPhone
 
@@ -300,7 +302,7 @@ Jailbreaking an iPhone refers to the process of removing software restrictions i
 
 <hr>
 
-## iOS 17 - iOS 17.3.1 jailbreak related news:
+## iOS 17 - iOS 17.4.1 jailbreak related news:
 
 Happy news for jailbreak communities those who are eagerly awaiting the most secure jailbreak method for iOS 17.
 
@@ -329,6 +331,8 @@ Happy news for jailbreak communities those who are eagerly awaiting the most sec
 Read more about
 
 [iOS 17.3 Jailbreak](https://xookz.com/ios-17-3-jailbreak/)
+
+[iOS 17.3 Jailbreak](https://xookz.com/ios-17-4-jailbreak/)
 
 
 
