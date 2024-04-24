@@ -1,6 +1,6 @@
 <div align="center">
   
-  # iOS 17 - iOS 17.4.1 & iOS 17.5 (Beta) Jailbreak Solutions
+  # iOS 17 - iOS 17.5 beta Verified Jailbreak Tools, Download, Status & Solutions
 
 </div>
 
